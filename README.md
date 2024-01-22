@@ -18,10 +18,14 @@ First, extract data from the wiki page into CSV file `reactors.csv`:
 
     python3 extract_reactors.py
 
-Then run Jupyter notebook [`notebook.ipynb`](notebook.ipynb) and export it to `notebook.html` which you can open in your browser:
+Then run Jupyter notebook [`notebook.ipynb`](notebook.ipynb) and export it to to Markdown file `notebook.md`:
+
+    jupyter nbconvert --to markdown --execute notebook.ipynb
+
+Or run it and export to `notebook.html` which you can open in your browser:
     
     jupyter nbconvert --to html --execute notebook.ipynb
 
-Repostitory contains CSV file [reactors.csv](reactors.csv) and HTML with graphs [notebook.html](notebook.html) (download it and open locally) generated on **January 22, 2024**.
+Repostitory contains CSV file [reactors.csv](reactors.csv), Markdown [notebook.md](notebook.md) and HTML [notebook.html](notebook.html) (you need to download it to view) generated on **January 22, 2024**.
 
 Note that reactors data is distributed by Wikipedia under the [Creative Commons Attribution-ShareAlike License 4.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License).
