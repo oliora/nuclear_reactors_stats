@@ -277,6 +277,63 @@ for c in top_regions:
     
 
 
+
+```python
+europe_df = input_df[(input_df['Region'] == 'Europe') & (input_df['SubRegion'] != 'Eastern Europe') & (input_df['SubRegion'] != 'Lithuania')]
+num_building_started = europe_df.groupby(['Begin building'])['Begin building'].count()
+num_connected = europe_df.groupby(['Commercial operation'])['Commercial operation'].count()
+num_closed = europe_df.groupby(['Closed'])['Closed'].count()
+num_operated_closed = europe_df.groupby(['Operated closed'])['Operated closed'].count()
+
+max_building_started = num_building_started.max()
+max_num_closed = num_closed.max()
+ymax = (max_building_started + 4) // 5 * 5
+ymin = (max_num_closed + 4) // 5 * 5
+tot_ymax = 250  # Same as for regions
+
+combined = pd.concat([
+        num_building_started,
+        num_connected,
+        num_closed,
+        num_operated_closed,
+    ], axis=1)
+
+combined = combined.reindex(years, fill_value=0)
+
+combined['Commercial operation tot'] = combined['Commercial operation'].fillna(0).cumsum()
+combined['Operated closed tot'] = combined['Operated closed'].fillna(0).cumsum()
+combined['In operation'] = combined['Commercial operation tot'] - combined['Operated closed tot']
+
+fig, ax = plt.subplots(2, 1, figsize=(11, 10))
+
+ax1, ax2 = ax
+
+combined['Begin building'].plot.bar(ax=ax1, label='Construction started')
+(-combined['Closed']).plot.bar(ax=ax1, color='red', label='Closed')
+
+ax1.set_title('Europe excluding Eastern Europe and ex-USSR countries')
+ax1.set_xlabel(None)
+format_years_ticks(ax1)
+format_number_plants_ticks(ax1, ymin, ymax)
+ax1.text(0, -ymin, copyright_text, fontsize=copyright_font_size, verticalalignment='bottom')
+ax1.legend()
+
+combined['In operation'].plot.bar(ax=ax2, label='Number in operation')
+combined['Commercial operation'].plot.bar(ax=ax2, color='black', label='Operation started')
+format_years_ticks(ax2)
+ax2.set_ylim(0, tot_ymax)
+#ax2.text(0, ax2.get_ylim()[1], copyright_text, fontsize=copyright_font_size, verticalalignment='top')
+ax2.legend()
+
+fig.tight_layout()
+```
+
+
+    
+![png](notebook_files/notebook_10_0.png)
+    
+
+
 # Subregion stats
 
 
@@ -425,7 +482,7 @@ max_building_started = num_building_started.max()
 max_num_closed = num_closed.max()
 ymax = (max_building_started + 4) // 5 * 5
 ymin = (max_num_closed + 4) // 5 * 5
-tot_ymax = 130  # TODO: calculate from data
+tot_ymax = 140  # TODO: calculate from data
 
 
 for c in top_regions:
@@ -469,79 +526,79 @@ for c in top_regions:
 
 
     
-![png](notebook_files/notebook_12_0.png)
+![png](notebook_files/notebook_13_0.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_1.png)
+![png](notebook_files/notebook_13_1.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_2.png)
+![png](notebook_files/notebook_13_2.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_3.png)
+![png](notebook_files/notebook_13_3.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_4.png)
+![png](notebook_files/notebook_13_4.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_5.png)
+![png](notebook_files/notebook_13_5.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_6.png)
+![png](notebook_files/notebook_13_6.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_7.png)
+![png](notebook_files/notebook_13_7.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_8.png)
+![png](notebook_files/notebook_13_8.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_9.png)
+![png](notebook_files/notebook_13_9.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_10.png)
+![png](notebook_files/notebook_13_10.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_11.png)
+![png](notebook_files/notebook_13_11.png)
     
 
 
 
     
-![png](notebook_files/notebook_12_12.png)
+![png](notebook_files/notebook_13_12.png)
     
 
 
@@ -903,7 +960,7 @@ max_building_started = num_building_started.max()
 max_num_closed = num_closed.max()
 ymax = (max_building_started + 4) // 5 * 5
 ymin = (max_num_closed + 4) // 5 * 5
-tot_ymax = 110  # TODO: calculate from data
+tot_ymax = 120  # TODO: calculate from data
 
 
 for c in top_countries:
@@ -944,265 +1001,265 @@ for c in top_countries:
     fig.tight_layout()
 ```
 
-    /var/folders/2z/kr9wj6s90nn6nkdsddywzyfw0000gn/T/ipykernel_26690/1497431667.py:31: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+    /var/folders/2z/kr9wj6s90nn6nkdsddywzyfw0000gn/T/ipykernel_27509/2974099261.py:31: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
       fig, ax = plt.subplots(2, 1, figsize=(11, 10))
 
 
 
     
-![png](notebook_files/notebook_15_1.png)
+![png](notebook_files/notebook_16_1.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_2.png)
+![png](notebook_files/notebook_16_2.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_3.png)
+![png](notebook_files/notebook_16_3.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_4.png)
+![png](notebook_files/notebook_16_4.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_5.png)
+![png](notebook_files/notebook_16_5.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_6.png)
+![png](notebook_files/notebook_16_6.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_7.png)
+![png](notebook_files/notebook_16_7.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_8.png)
+![png](notebook_files/notebook_16_8.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_9.png)
+![png](notebook_files/notebook_16_9.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_10.png)
+![png](notebook_files/notebook_16_10.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_11.png)
+![png](notebook_files/notebook_16_11.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_12.png)
+![png](notebook_files/notebook_16_12.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_13.png)
+![png](notebook_files/notebook_16_13.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_14.png)
+![png](notebook_files/notebook_16_14.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_15.png)
+![png](notebook_files/notebook_16_15.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_16.png)
+![png](notebook_files/notebook_16_16.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_17.png)
+![png](notebook_files/notebook_16_17.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_18.png)
+![png](notebook_files/notebook_16_18.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_19.png)
+![png](notebook_files/notebook_16_19.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_20.png)
+![png](notebook_files/notebook_16_20.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_21.png)
+![png](notebook_files/notebook_16_21.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_22.png)
+![png](notebook_files/notebook_16_22.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_23.png)
+![png](notebook_files/notebook_16_23.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_24.png)
+![png](notebook_files/notebook_16_24.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_25.png)
+![png](notebook_files/notebook_16_25.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_26.png)
+![png](notebook_files/notebook_16_26.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_27.png)
+![png](notebook_files/notebook_16_27.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_28.png)
+![png](notebook_files/notebook_16_28.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_29.png)
+![png](notebook_files/notebook_16_29.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_30.png)
+![png](notebook_files/notebook_16_30.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_31.png)
+![png](notebook_files/notebook_16_31.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_32.png)
+![png](notebook_files/notebook_16_32.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_33.png)
+![png](notebook_files/notebook_16_33.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_34.png)
+![png](notebook_files/notebook_16_34.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_35.png)
+![png](notebook_files/notebook_16_35.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_36.png)
+![png](notebook_files/notebook_16_36.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_37.png)
+![png](notebook_files/notebook_16_37.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_38.png)
+![png](notebook_files/notebook_16_38.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_39.png)
+![png](notebook_files/notebook_16_39.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_40.png)
+![png](notebook_files/notebook_16_40.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_41.png)
+![png](notebook_files/notebook_16_41.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_42.png)
+![png](notebook_files/notebook_16_42.png)
     
 
 
 
     
-![png](notebook_files/notebook_15_43.png)
+![png](notebook_files/notebook_16_43.png)
     
 
 
@@ -1240,7 +1297,7 @@ fig.tight_layout()
 
 
     
-![png](notebook_files/notebook_17_0.png)
+![png](notebook_files/notebook_18_0.png)
     
 
 
