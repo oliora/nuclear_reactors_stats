@@ -1,0 +1,30 @@
+{
+    "regions": {
+        "World": 1,
+        "Africa": 2,
+        "Northern Africa": 15,
+        "Sub-Saharan Africa": 202,
+        "Americas": 19,
+        "Latin America and the Caribbean": 419,
+        "Northern America": 21,
+        "Antarctica": 10,
+        "Asia": 142,
+        "Central Asia": 143,
+        "Eastern Asia": 30,
+        "South-eastern Asia": 35,
+        "Southern Asia": 34,
+        "Western Asia": 145,
+        "Europe": 150,
+        "Eastern Europe": 151,
+        "Northern Europe": 154,
+        "Southern Europe": 39,
+        "Western Europe": 155,
+        "Landlocked Developing Countries (LLDC)": 432,
+        "Least Developed Countries (LDC)": 199,
+        "Oceania": 9,
+        "Australia and New Zealand": 53,
+        "Melanesia": 54,
+        "Micronesia": 57,
+        "Polynesia": 61
+    }
+}

@@ -1,0 +1,1654 @@
+{
+    "lastUpdated": 1672386488820,
+    "countries": [
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Afghanistan",
+            "m49code": 4
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Albania",
+            "m49code": 8
+        },
+        {
+            "region": 2,
+            "subRegion": 15,
+            "name": "Algeria",
+            "m49code": 12
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "American Samoa",
+            "m49code": 16,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Andorra",
+            "m49code": 20
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Angola",
+            "m49code": 24
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Anguilla",
+            "m49code": 660,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Antigua and Barbuda",
+            "m49code": 28,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Argentina",
+            "m49code": 32
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Armenia",
+            "m49code": 51
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Aruba",
+            "m49code": 533,
+            "SIDS": true
+        },
+        {
+            "region": 9,
+            "subRegion": 53,
+            "name": "Australia",
+            "m49code": 36
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Austria",
+            "m49code": 40
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Azerbaijan",
+            "m49code": 31
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Bahamas",
+            "m49code": 44,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Bahrain",
+            "m49code": 48
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Bangladesh",
+            "m49code": 50
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Barbados",
+            "m49code": 52,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Belarus",
+            "m49code": 112
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Belgium",
+            "m49code": 56
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "Belize",
+            "m49code": 84,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Benin",
+            "m49code": 204
+        },
+        {
+            "region": 19,
+            "subRegion": 21,
+            "name": "Bermuda",
+            "m49code": 60
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Bhutan",
+            "m49code": 64
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Bolivia (Plurinational State of)",
+            "m49code": 68
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Bonaire, Sint Eustatius and Saba",
+            "m49code": 535,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Bosnia and Herzegovina",
+            "m49code": 70
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 18,
+            "name": "Botswana",
+            "m49code": 72
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Bouvet Island",
+            "m49code": 74
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Brazil",
+            "m49code": 76
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "British Indian Ocean Territory",
+            "m49code": 86
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "British Virgin Islands",
+            "m49code": 92,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Brunei Darussalam",
+            "m49code": 96
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Bulgaria",
+            "m49code": 100
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Burkina Faso",
+            "m49code": 854
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Burundi",
+            "m49code": 108
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Cabo Verde",
+            "m49code": 132,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Cambodia",
+            "m49code": 116
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Cameroon",
+            "m49code": 120
+        },
+        {
+            "region": 19,
+            "subRegion": 21,
+            "name": "Canada",
+            "m49code": 124
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Cayman Islands",
+            "m49code": 136
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Central African Republic",
+            "m49code": 140
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Chad",
+            "m49code": 148
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Chile",
+            "m49code": 152
+        },
+        {
+            "region": 142,
+            "subRegion": 30,
+            "name": "China",
+            "m49code": 156
+        },
+        {
+            "region": 142,
+            "subRegion": 30,
+            "name": "China, Hong Kong Special Administrative Region",
+            "m49code": 344
+        },
+        {
+            "region": 142,
+            "subRegion": 30,
+            "name": "China, Macao Special Administrative Region",
+            "m49code": 446
+        },
+        {
+            "region": 9,
+            "subRegion": 53,
+            "name": "Christmas Island",
+            "m49code": 162
+        },
+        {
+            "region": 9,
+            "subRegion": 53,
+            "name": "Cocos (Keeling) Islands",
+            "m49code": 166
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Colombia",
+            "m49code": 170
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Comoros",
+            "m49code": 174,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Congo",
+            "m49code": 178
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Cook Islands",
+            "m49code": 184,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "Costa Rica",
+            "m49code": 188
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Croatia",
+            "m49code": 191
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Cuba",
+            "m49code": 192,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Cura\u00e7ao",
+            "m49code": 531,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Cyprus",
+            "m49code": 196
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Czechia",
+            "m49code": 203
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "C\u00f4te d\u2019Ivoire",
+            "m49code": 384
+        },
+        {
+            "region": 142,
+            "subRegion": 30,
+            "name": "Democratic People's Republic of Korea",
+            "m49code": 408
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Democratic Republic of the Congo",
+            "m49code": 180
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Denmark",
+            "m49code": 208
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Djibouti",
+            "m49code": 262
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Dominica",
+            "m49code": 212,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Dominican Republic",
+            "m49code": 214,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Ecuador",
+            "m49code": 218
+        },
+        {
+            "region": 2,
+            "subRegion": 15,
+            "name": "Egypt",
+            "m49code": 818
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "El Salvador",
+            "m49code": 222
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Equatorial Guinea",
+            "m49code": 226
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Eritrea",
+            "m49code": 232
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Estonia",
+            "m49code": 233
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 18,
+            "name": "Eswatini",
+            "m49code": 748
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Ethiopia",
+            "m49code": 231
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Falkland Islands (Malvinas)",
+            "m49code": 238
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Faroe Islands",
+            "m49code": 234
+        },
+        {
+            "region": 9,
+            "subRegion": 54,
+            "name": "Fiji",
+            "m49code": 242,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Finland",
+            "m49code": 246
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "France",
+            "m49code": 250
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "French Guiana",
+            "m49code": 254
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "French Polynesia",
+            "m49code": 258,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "French Southern Territories",
+            "m49code": 260
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Gabon",
+            "m49code": 266
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Gambia",
+            "m49code": 270
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Georgia",
+            "m49code": 268
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Germany",
+            "m49code": 276
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Ghana",
+            "m49code": 288
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Gibraltar",
+            "m49code": 292
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Greece",
+            "m49code": 300
+        },
+        {
+            "region": 19,
+            "subRegion": 21,
+            "name": "Greenland",
+            "m49code": 304
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Grenada",
+            "m49code": 308,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Guadeloupe",
+            "m49code": 312
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "Guam",
+            "m49code": 316,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "Guatemala",
+            "m49code": 320
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "intermediateRegion": 830,
+            "name": "Guernsey",
+            "m49code": 831
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Guinea",
+            "m49code": 324
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Guinea-Bissau",
+            "m49code": 624,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Guyana",
+            "m49code": 328,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Haiti",
+            "m49code": 332,
+            "SIDS": true
+        },
+        {
+            "region": 9,
+            "subRegion": 53,
+            "name": "Heard Island and McDonald Islands",
+            "m49code": 334
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Holy See",
+            "m49code": 336
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "Honduras",
+            "m49code": 340
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Hungary",
+            "m49code": 348
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Iceland",
+            "m49code": 352
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "India",
+            "m49code": 356
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Indonesia",
+            "m49code": 360
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Iran (Islamic Republic of)",
+            "m49code": 364
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Iraq",
+            "m49code": 368
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Ireland",
+            "m49code": 372
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Isle of Man",
+            "m49code": 833
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Israel",
+            "m49code": 376
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Italy",
+            "m49code": 380
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Jamaica",
+            "m49code": 388,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 30,
+            "name": "Japan",
+            "m49code": 392
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "intermediateRegion": 830,
+            "name": "Jersey",
+            "m49code": 832
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Jordan",
+            "m49code": 400
+        },
+        {
+            "region": 142,
+            "subRegion": 143,
+            "name": "Kazakhstan",
+            "m49code": 398
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Kenya",
+            "m49code": 404
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "Kiribati",
+            "m49code": 296,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Kuwait",
+            "m49code": 414
+        },
+        {
+            "region": 142,
+            "subRegion": 143,
+            "name": "Kyrgyzstan",
+            "m49code": 417
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Lao People's Democratic Republic",
+            "m49code": 418
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Latvia",
+            "m49code": 428
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Lebanon",
+            "m49code": 422
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 18,
+            "name": "Lesotho",
+            "m49code": 426
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Liberia",
+            "m49code": 430
+        },
+        {
+            "region": 2,
+            "subRegion": 15,
+            "name": "Libya",
+            "m49code": 434
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Liechtenstein",
+            "m49code": 438
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Lithuania",
+            "m49code": 440
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Luxembourg",
+            "m49code": 442
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Madagascar",
+            "m49code": 450
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Malawi",
+            "m49code": 454
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Malaysia",
+            "m49code": 458
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Maldives",
+            "m49code": 462,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Mali",
+            "m49code": 466
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Malta",
+            "m49code": 470
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "Marshall Islands",
+            "m49code": 584,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Martinique",
+            "m49code": 474
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Mauritania",
+            "m49code": 478
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Mauritius",
+            "m49code": 480,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Mayotte",
+            "m49code": 175
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "Mexico",
+            "m49code": 484
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "Micronesia (Federated States of)",
+            "m49code": 583,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Monaco",
+            "m49code": 492
+        },
+        {
+            "region": 142,
+            "subRegion": 30,
+            "name": "Mongolia",
+            "m49code": 496
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Montenegro",
+            "m49code": 499
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Montserrat",
+            "m49code": 500,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 15,
+            "name": "Morocco",
+            "m49code": 504
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Mozambique",
+            "m49code": 508
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Myanmar",
+            "m49code": 104
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 18,
+            "name": "Namibia",
+            "m49code": 516
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "Nauru",
+            "m49code": 520,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Nepal",
+            "m49code": 524
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Netherlands",
+            "m49code": 528
+        },
+        {
+            "region": 9,
+            "subRegion": 54,
+            "name": "New Caledonia",
+            "m49code": 540,
+            "SIDS": true
+        },
+        {
+            "region": 9,
+            "subRegion": 53,
+            "name": "New Zealand",
+            "m49code": 554
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "Nicaragua",
+            "m49code": 558
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Niger",
+            "m49code": 562
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Nigeria",
+            "m49code": 566
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Niue",
+            "m49code": 570,
+            "SIDS": true
+        },
+        {
+            "region": 9,
+            "subRegion": 53,
+            "name": "Norfolk Island",
+            "m49code": 574
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "North Macedonia",
+            "m49code": 807
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "Northern Mariana Islands",
+            "m49code": 580,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Norway",
+            "m49code": 578
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Oman",
+            "m49code": 512
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Pakistan",
+            "m49code": 586
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "Palau",
+            "m49code": 585,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 13,
+            "name": "Panama",
+            "m49code": 591
+        },
+        {
+            "region": 9,
+            "subRegion": 54,
+            "name": "Papua New Guinea",
+            "m49code": 598,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Paraguay",
+            "m49code": 600
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Peru",
+            "m49code": 604
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Philippines",
+            "m49code": 608
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Pitcairn",
+            "m49code": 612
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Poland",
+            "m49code": 616
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Portugal",
+            "m49code": 620
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Puerto Rico",
+            "m49code": 630,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Qatar",
+            "m49code": 634
+        },
+        {
+            "region": 142,
+            "subRegion": 30,
+            "name": "Republic of Korea",
+            "m49code": 410
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Republic of Moldova",
+            "m49code": 498
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Romania",
+            "m49code": 642
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Russian Federation",
+            "m49code": 643
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Rwanda",
+            "m49code": 646
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "R\u00e9union",
+            "m49code": 638
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Saint Barth\u00e9lemy",
+            "m49code": 652
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Saint Helena",
+            "m49code": 654
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Saint Kitts and Nevis",
+            "m49code": 659,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Saint Lucia",
+            "m49code": 662,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Saint Martin (French Part)",
+            "m49code": 663
+        },
+        {
+            "region": 19,
+            "subRegion": 21,
+            "name": "Saint Pierre and Miquelon",
+            "m49code": 666
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Saint Vincent and the Grenadines",
+            "m49code": 670,
+            "SIDS": true
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Samoa",
+            "m49code": 882,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "San Marino",
+            "m49code": 674
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 17,
+            "name": "Sao Tome and Principe",
+            "m49code": 678,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "intermediateRegion": 830,
+            "name": "Sark",
+            "m49code": 680
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Saudi Arabia",
+            "m49code": 682
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Senegal",
+            "m49code": 686
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Serbia",
+            "m49code": 688
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Seychelles",
+            "m49code": 690,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Sierra Leone",
+            "m49code": 694
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Singapore",
+            "m49code": 702,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Sint Maarten (Dutch part)",
+            "m49code": 534,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Slovakia",
+            "m49code": 703
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Slovenia",
+            "m49code": 705
+        },
+        {
+            "region": 9,
+            "subRegion": 54,
+            "name": "Solomon Islands",
+            "m49code": 90,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Somalia",
+            "m49code": 706
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 18,
+            "name": "South Africa",
+            "m49code": 710
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "South Georgia and the South Sandwich Islands",
+            "m49code": 239
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "South Sudan",
+            "m49code": 728
+        },
+        {
+            "region": 150,
+            "subRegion": 39,
+            "name": "Spain",
+            "m49code": 724
+        },
+        {
+            "region": 142,
+            "subRegion": 34,
+            "name": "Sri Lanka",
+            "m49code": 144
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "State of Palestine",
+            "m49code": 275
+        },
+        {
+            "region": 2,
+            "subRegion": 15,
+            "name": "Sudan",
+            "m49code": 729
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Suriname",
+            "m49code": 740,
+            "SIDS": true
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Svalbard and Jan Mayen Islands",
+            "m49code": 744
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "Sweden",
+            "m49code": 752
+        },
+        {
+            "region": 150,
+            "subRegion": 155,
+            "name": "Switzerland",
+            "m49code": 756
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Syrian Arab Republic",
+            "m49code": 760
+        },
+        {
+            "region": 142,
+            "subRegion": 143,
+            "name": "Tajikistan",
+            "m49code": 762
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Thailand",
+            "m49code": 764
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Timor-Leste",
+            "m49code": 626,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 11,
+            "name": "Togo",
+            "m49code": 768
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Tokelau",
+            "m49code": 772
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Tonga",
+            "m49code": 776,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Trinidad and Tobago",
+            "m49code": 780,
+            "SIDS": true
+        },
+        {
+            "region": 2,
+            "subRegion": 15,
+            "name": "Tunisia",
+            "m49code": 788
+        },
+        {
+            "region": 142,
+            "subRegion": 143,
+            "name": "Turkmenistan",
+            "m49code": 795
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "Turks and Caicos Islands",
+            "m49code": 796
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Tuvalu",
+            "m49code": 798,
+            "SIDS": true
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "T\u00fcrkiye",
+            "m49code": 792
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Uganda",
+            "m49code": 800
+        },
+        {
+            "region": 150,
+            "subRegion": 151,
+            "name": "Ukraine",
+            "m49code": 804
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "United Arab Emirates",
+            "m49code": 784
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "United Kingdom of Great Britain and Northern Ireland",
+            "m49code": 826
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "United Republic of Tanzania",
+            "m49code": 834
+        },
+        {
+            "region": 9,
+            "subRegion": 57,
+            "name": "United States Minor Outlying Islands",
+            "m49code": 581
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 29,
+            "name": "United States Virgin Islands",
+            "m49code": 850,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 21,
+            "name": "United States of America",
+            "m49code": 840
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Uruguay",
+            "m49code": 858
+        },
+        {
+            "region": 142,
+            "subRegion": 143,
+            "name": "Uzbekistan",
+            "m49code": 860
+        },
+        {
+            "region": 9,
+            "subRegion": 54,
+            "name": "Vanuatu",
+            "m49code": 548,
+            "SIDS": true
+        },
+        {
+            "region": 19,
+            "subRegion": 419,
+            "intermediateRegion": 5,
+            "name": "Venezuela (Bolivarian Republic of)",
+            "m49code": 862
+        },
+        {
+            "region": 142,
+            "subRegion": 35,
+            "name": "Viet Nam",
+            "m49code": 704
+        },
+        {
+            "region": 9,
+            "subRegion": 61,
+            "name": "Wallis and Futuna Islands",
+            "m49code": 876
+        },
+        {
+            "region": 2,
+            "subRegion": 15,
+            "name": "Western Sahara",
+            "m49code": 732
+        },
+        {
+            "region": 142,
+            "subRegion": 145,
+            "name": "Yemen",
+            "m49code": 887
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Zambia",
+            "m49code": 894
+        },
+        {
+            "region": 2,
+            "subRegion": 202,
+            "intermediateRegion": 14,
+            "name": "Zimbabwe",
+            "m49code": 716
+        },
+        {
+            "region": 150,
+            "subRegion": 154,
+            "name": "\u00c5land Islands",
+            "m49code": 248
+        }
+    ]
+}
