@@ -1,318 +1,318 @@
 Country,Plant name,Unit No.,Type,Model,Status,Capacity (MW),Begin building,Commercial operation,Closed
-Argentina,Atucha,1,PHWR,Siemens-KWU,Operational,335,1968,1974,
-Argentina,Atucha,2,PHWR,Siemens-KWU,Operational,692,1981,2014,
+Argentina,Atucha,1,PHWR,Siemens-KWU,Operational,335,1968-06-01,1974-06-24,
+Argentina,Atucha,2,PHWR,Siemens-KWU,Operational,692,1981-07-14,2014-06-27,
 Argentina,Atucha,3,PWR,Hualong One,Planned,1200,,,
-Argentina,Embalse,1,PHWR,CANDU-6,Operational,600,1974,1984,
-Argentina,CAREM,1,PWR,CAREM25,Under construction,25,2014,,
-Armenia,Metsamor,1,PWR,VVER-440/V-270,Shut down,376,1969,1977,1989
-Armenia,Metsamor,2,PWR,VVER-440/V-270,Operational,375,1975,1980,
-Austria,Zwentendorf,1,BWR,BWR-69 (KWU),Finished; never entered service,878,1972,,1978
-Bangladesh,Rooppur,1,PWR,VVER-1200/V-523,Under construction,1080,2017,,
-Bangladesh,Rooppur,2,PWR,VVER-1200/V-523,Under construction,1080,2018,,
-Belarus,Ostrovets,1,PWR,VVER-1200/V-491,Operational,1109,2013,2021,
-Belarus,Ostrovets,2,PWR,VVER-1200/V-491,Operational,1109,2014,2023,
-Belarus,Minsk,1,PWR,VVER-1000,Unfinished,963,1983,,1987
-Belarus,Minsk,2,PWR,VVER-1000,Unfinished,963,1983,,1987
-Belgium,SCK•CEN,1,PWR,Westinghouse (WH) BR-3,Decommissioned,10,1957,1962,1987
-Belgium,Doel,1,PWR,WH 2 loops,Operational,445,1969,1975,
-Belgium,Doel,2,PWR,WH 2 loops,Operational,445,1971,1975,
-Belgium,Doel,3,PWR,Framatome 3 loops,Shut down,1006,1975,1982,2022
-Belgium,Doel,4,PWR,Belgian firms plus WH 3 loops,Operational,1039,1978,1985,
-Belgium,Tihange,1,PWR,Framatome 3 loops,Operational,962,1970,1975,
-Belgium,Tihange,2,PWR,Framatome 3 loops,Shut down,1008,1976,1983,2023
-Belgium,Tihange,3,PWR,Belgian firms plus WH 3 loops,Operational,1046,1978,1985,
-Brazil,Angra,1,PWR,WH 2 loops,Operational,609,1971,1985,
-Brazil,Angra,2,PWR,Pre-Konvoi,Operational,1275,1976,2001,
-Brazil,Angra,3,PWR,Pre-Konvoi,Under construction,1245,2010,,
-Bulgaria,Kozloduy,1,PWR,VVER-440/V-230,Shut down,408,1970,1974,2002
-Bulgaria,Kozloduy,2,PWR,VVER-440/V-230,Shut down,408,1970,1975,2002
-Bulgaria,Kozloduy,3,PWR,VVER-440/V-230,Shut down,408,1973,1981,2006
-Bulgaria,Kozloduy,4,PWR,VVER-440/V-230,Shut down,408,1973,1982,2006
-Bulgaria,Kozloduy,5,PWR,VVER-1000/V-320,Operational,1003,1980,1988,
-Bulgaria,Kozloduy,6,PWR,VVER-1000/V-320,Operational,1003,1982,1993,
+Argentina,Embalse,1,PHWR,CANDU-6,Operational,600,1974-04-01,1984-01-20,
+Argentina,CAREM,1,PWR,CAREM25,Under construction,25,2014-02-08,,
+Armenia,Metsamor,1,PWR,VVER-440/V-270,Shut down,376,1969-07-01,1977-10-06,1989-02-25
+Armenia,Metsamor,2,PWR,VVER-440/V-270,Operational,375,1975-07-01,1980-05-03,
+Austria,Zwentendorf,1,BWR,BWR-69 (KWU),Finished; never entered service,878,1972-04-01,,1978-11-05
+Bangladesh,Rooppur,1,PWR,VVER-1200/V-523,Under construction,1080,2017-11-30,,
+Bangladesh,Rooppur,2,PWR,VVER-1200/V-523,Under construction,1080,2018-07-14,,
+Belarus,Ostrovets,1,PWR,VVER-1200/V-491,Operational,1109,2013-11-06,2021-06-10,
+Belarus,Ostrovets,2,PWR,VVER-1200/V-491,Operational,1109,2014-04-24,2023-11-01,
+Belarus,Minsk,1,PWR,VVER-1000,Unfinished,963,1983-01-01,,1987-01-01
+Belarus,Minsk,2,PWR,VVER-1000,Unfinished,963,1983-01-01,,1987-01-01
+Belgium,SCK•CEN,1,PWR,Westinghouse (WH) BR-3,Decommissioned,10,1957-11-01,1962-10-10,1987-06-30
+Belgium,Doel,1,PWR,WH 2 loops,Operational,445,1969-07-01,1975-02-15,
+Belgium,Doel,2,PWR,WH 2 loops,Operational,445,1971-09-01,1975-12-01,
+Belgium,Doel,3,PWR,Framatome 3 loops,Shut down,1006,1975-01-01,1982-10-01,2022-09-23
+Belgium,Doel,4,PWR,Belgian firms plus WH 3 loops,Operational,1039,1978-12-01,1985-07-01,
+Belgium,Tihange,1,PWR,Framatome 3 loops,Operational,962,1970-06-01,1975-10-01,
+Belgium,Tihange,2,PWR,Framatome 3 loops,Shut down,1008,1976-04-01,1983-06-01,2023-01-31
+Belgium,Tihange,3,PWR,Belgian firms plus WH 3 loops,Operational,1046,1978-11-01,1985-09-01,
+Brazil,Angra,1,PWR,WH 2 loops,Operational,609,1971-05-01,1985-01-01,
+Brazil,Angra,2,PWR,Pre-Konvoi,Operational,1275,1976-01-01,2001-02-01,
+Brazil,Angra,3,PWR,Pre-Konvoi,Under construction,1245,2010-06-01,,
+Bulgaria,Kozloduy,1,PWR,VVER-440/V-230,Shut down,408,1970-04-01,1974-10-28,2002-12-31
+Bulgaria,Kozloduy,2,PWR,VVER-440/V-230,Shut down,408,1970-04-01,1975-11-10,2002-12-31
+Bulgaria,Kozloduy,3,PWR,VVER-440/V-230,Shut down,408,1973-10-01,1981-01-20,2006-12-31
+Bulgaria,Kozloduy,4,PWR,VVER-440/V-230,Shut down,408,1973-10-01,1982-06-20,2006-12-31
+Bulgaria,Kozloduy,5,PWR,VVER-1000/V-320,Operational,1003,1980-07-09,1988-12-23,
+Bulgaria,Kozloduy,6,PWR,VVER-1000/V-320,Operational,1003,1982-04-01,1993-12-30,
 Bulgaria,Kozloduy,7,PWR,AP1000,Planned,1150,,,
 Bulgaria,Kozloduy,8,PWR,AP1000,Planned,1150,,,
-Bulgaria,Belene,1,PWR,VVER-1000/V-320VVER-1000/V-446B,Unfinished,9531011,1987,,
-Bulgaria,Belene,2,PWR,VVER-1000/V-320VVER-1000/V-446B,Unfinished,9531011,1987,,
-Canada,Pickering,1,PHWR,CANDU 500A,Operational,515,1966,1971,
-Canada,Pickering,2,PHWR,CANDU 500A,Shut down,515,1966,1971,1997
-Canada,Pickering,3,PHWR,CANDU 500A,Shut down,515,1967,1972,1997
-Canada,Pickering,4,PHWR,CANDU 500A,Operational,515,1968,1973,
-Canada,Pickering,5,PHWR,CANDU 500B,Operational,516,1974,1983,
-Canada,Pickering,6,PHWR,CANDU 500B,Operational,516,1975,1984,
-Canada,Pickering,7,PHWR,CANDU 500B,Operational,516,1976,1985,
-Canada,Pickering,8,PHWR,CANDU 500B,Operational,516,1976,1986,
-Canada,Darlington,1,PHWR,CANDU 850,Operational,878,1982,1992,
-Canada,Darlington,2,PHWR,CANDU 850,Operational,878,1981,1990,
-Canada,Darlington,3,PHWR,CANDU 850,Operational,878,1984,1993,
-Canada,Darlington,4,PHWR,CANDU 850,Operational,878,1985,1993,
+Bulgaria,Belene,1,PWR,VVER-1000/V-320VVER-1000/V-446B,Unfinished,9531011,1987-01-01,,
+Bulgaria,Belene,2,PWR,VVER-1000/V-320VVER-1000/V-446B,Unfinished,9531011,1987-01-01,,
+Canada,Pickering,1,PHWR,CANDU 500A,Operational,515,1966-06-01,1971-07-29,
+Canada,Pickering,2,PHWR,CANDU 500A,Shut down,515,1966-09-01,1971-12-30,1997-01-01
+Canada,Pickering,3,PHWR,CANDU 500A,Shut down,515,1967-12-01,1972-06-01,1997-01-01
+Canada,Pickering,4,PHWR,CANDU 500A,Operational,515,1968-05-01,1973-06-17,
+Canada,Pickering,5,PHWR,CANDU 500B,Operational,516,1974-11-01,1983-05-10,
+Canada,Pickering,6,PHWR,CANDU 500B,Operational,516,1975-10-01,1984-02-01,
+Canada,Pickering,7,PHWR,CANDU 500B,Operational,516,1976-03-01,1985-01-01,
+Canada,Pickering,8,PHWR,CANDU 500B,Operational,516,1976-09-01,1986-02-28,
+Canada,Darlington,1,PHWR,CANDU 850,Operational,878,1982-04-01,1992-11-14,
+Canada,Darlington,2,PHWR,CANDU 850,Operational,878,1981-09-01,1990-10-09,
+Canada,Darlington,3,PHWR,CANDU 850,Operational,878,1984-09-01,1993-02-14,
+Canada,Darlington,4,PHWR,CANDU 850,Operational,878,1985-07-01,1993-06-14,
 Canada,Darlington,5,BWR,BWRX-300,Planned,300,,,
 Canada,Darlington,6,BWR,BWRX-300,Planned,300,,,
 Canada,Darlington,7,BWR,BWRX-300,Planned,300,,,
 Canada,Darlington,8,BWR,BWRX-300,Planned,300,,,
-Canada,Bruce,1,PHWR,CANDU 791,Operational,823,1971,1977,
-Canada,Bruce,2,PHWR,CANDU 791,Operational,823,1970,1977,
-Canada,Bruce,3,PHWR,CANDU 750A,Operational,817,1972,1978,
-Canada,Bruce,4,PHWR,CANDU 750A,Operational,817,1972,1979,
-Canada,Bruce,5,PHWR,CANDU 750B,Operational,817,1978,1985,
-Canada,Bruce,6,PHWR,CANDU 750B,Operational,880,1978,1984,
-Canada,Bruce,7,PHWR,CANDU 750B,Operational,817,1979,1986,
-Canada,Bruce,8,PHWR,CANDU 750B,Operational,817,1979,1987,
-Canada,NPD,1,PHWR,CANDU,Shut down,19,1958,1962,1987
-Canada,Douglas Point,1,PHWR,CANDU 200,Shut down,200,1960,1968,1984
-Canada,Gentilly,1,BWR,CANDU BLWR 250,Shut down,250,1966,1972,1977
-Canada,Gentilly,2,PHWR,CANDU-6,Shut down,635,1974,1983,2012
-Canada,Point Lepreau,1,PHWR,CANDU-6,Operational,635,1975,1983,
+Canada,Bruce,1,PHWR,CANDU 791,Operational,823,1971-06-01,1977-09-01,
+Canada,Bruce,2,PHWR,CANDU 791,Operational,823,1970-12-01,1977-09-01,
+Canada,Bruce,3,PHWR,CANDU 750A,Operational,817,1972-07-01,1978-02-01,
+Canada,Bruce,4,PHWR,CANDU 750A,Operational,817,1972-09-01,1979-01-18,
+Canada,Bruce,5,PHWR,CANDU 750B,Operational,817,1978-06-01,1985-03-01,
+Canada,Bruce,6,PHWR,CANDU 750B,Operational,880,1978-01-01,1984-09-15,
+Canada,Bruce,7,PHWR,CANDU 750B,Operational,817,1979-05-01,1986-04-10,
+Canada,Bruce,8,PHWR,CANDU 750B,Operational,817,1979-08-01,1987-05-22,
+Canada,NPD,1,PHWR,CANDU,Shut down,19,1958-01-01,1962-06-04,1987-01-01
+Canada,Douglas Point,1,PHWR,CANDU 200,Shut down,200,1960-02-01,1968-09-26,1984-05-04
+Canada,Gentilly,1,BWR,CANDU BLWR 250,Shut down,250,1966-09-01,1972-05-01,1977-01-01
+Canada,Gentilly,2,PHWR,CANDU-6,Shut down,635,1974-04-01,1983-10-01,2012-12-28
+Canada,Point Lepreau,1,PHWR,CANDU-6,Operational,635,1975-05-01,1983-02-01,
 China,Bailong,1,PWR,CAP-1000,Planned,1100,,,
 China,Bailong,2,PWR,CAP-1000,Planned,1100,,,
-China,Changjiang,I-1,PWR,CNP-600,Operational,601,2010,2015,
-China,Changjiang,I-2,PWR,CNP-600,Operational,601,2010,2016,
-China,Changjiang,I-3,PWR,Hualong One,Under construction,1200,2021,,
-China,Changjiang,I-4,PWR,Hualong One,Under construction,1200,2021,,
-China,Changjiang,II-1,PWR,ACP-100,Under construction,100,2021,,
+China,Changjiang,I-1,PWR,CNP-600,Operational,601,2010-04-25,2015-12-25,
+China,Changjiang,I-2,PWR,CNP-600,Operational,601,2010-11-21,2016-06-20,
+China,Changjiang,I-3,PWR,Hualong One,Under construction,1200,2021-03-31,,
+China,Changjiang,I-4,PWR,Hualong One,Under construction,1200,2021-03-31,,
+China,Changjiang,II-1,PWR,ACP-100,Under construction,100,2021-07-13,,
 China,Changjiang,II-2,PWR,ACP-100,Planned,100,,,
-China,Daya Bay,1,PWR,M-310,Operational,944,1987,1994,
-China,Daya Bay,2,PWR,M-310,Operational,944,1988,1994,
-China,Fangchenggang,1,PWR,CPR-1000,Operational,1000,2010,2015,
-China,Fangchenggang,2,PWR,CPR-1000,Operational,1000,2010,2016,
-China,Fangchenggang,3,PWR,Hualong One,Operational,1000,2015,2023,
-China,Fangchenggang,4,PWR,Hualong One,Under construction,1000,2016,,
+China,Daya Bay,1,PWR,M-310,Operational,944,1987-08-07,1994-02-01,
+China,Daya Bay,2,PWR,M-310,Operational,944,1988-04-07,1994-05-06,
+China,Fangchenggang,1,PWR,CPR-1000,Operational,1000,2010-07-30,2015-10-25,
+China,Fangchenggang,2,PWR,CPR-1000,Operational,1000,2010-12-23,2016-07-15,
+China,Fangchenggang,3,PWR,Hualong One,Operational,1000,2015-12-24,2023-03-25,
+China,Fangchenggang,4,PWR,Hualong One,Under construction,1000,2016-12-24,,
 China,Fangchenggang,5,PWR,Hualong One,Planned,1117,,,
 China,Fangchenggang,6,PWR,Hualong One,Planned,1117,,,
-China,Fangjiashan,1,PWR,CPR-1000,Operational,1012,2008,2014,
-China,Fangjiashan,2,PWR,CPR-1000,Operational,1012,2009,2015,
-China,Fuqing,1,PWR,CPR-1000,Operational,1000,2008,2014,
-China,Fuqing,2,PWR,CPR-1000,Operational,1000,2009,2015,
-China,Fuqing,3,PWR,CPR-1000,Operational,1000,2010,2016,
-China,Fuqing,4,PWR,CPR-1000,Operational,1000,2012,2017,
-China,Fuqing,5,PWR,Hualong One,Operational,1000,2015,2021,
-China,Fuqing,6,PWR,Hualong One,Operational,1000,2015,2022,
-China,Haiyang,1,PWR,AP1000,Operational,1170,2009,2018,
-China,Haiyang,2,PWR,AP1000,Operational,1170,2010,2019,
-China,Haiyang,3,PWR,CAP-1000,Under construction,1100,2022,,
-China,Haiyang,4,PWR,CAP-1000,Under construction,1100,2023,,
+China,Fangjiashan,1,PWR,CPR-1000,Operational,1012,2008-12-26,2014-12-15,
+China,Fangjiashan,2,PWR,CPR-1000,Operational,1012,2009-07-17,2015-02-12,
+China,Fuqing,1,PWR,CPR-1000,Operational,1000,2008-11-21,2014-11-19,
+China,Fuqing,2,PWR,CPR-1000,Operational,1000,2009-06-17,2015-10-15,
+China,Fuqing,3,PWR,CPR-1000,Operational,1000,2010-12-31,2016-09-07,
+China,Fuqing,4,PWR,CPR-1000,Operational,1000,2012-11-17,2017-07-31,
+China,Fuqing,5,PWR,Hualong One,Operational,1000,2015-04-15,2021-01-30,
+China,Fuqing,6,PWR,Hualong One,Operational,1000,2015-12-22,2022-03-25,
+China,Haiyang,1,PWR,AP1000,Operational,1170,2009-09-24,2018-10-23,
+China,Haiyang,2,PWR,AP1000,Operational,1170,2010-06-20,2019-01-09,
+China,Haiyang,3,PWR,CAP-1000,Under construction,1100,2022-07-07,,
+China,Haiyang,4,PWR,CAP-1000,Under construction,1100,2023-04-22,,
 China,Haixing,1,PWR,CAP-1000,Planned,1100,,,
 China,Haixing,2,PWR,CAP-1000,Planned,1100,,,
-China,Hongyanhe,1,PWR,CPR-1000,Operational,1061,2007,2013,
-China,Hongyanhe,2,PWR,CPR-1000,Operational,1061,2008,2014,
-China,Hongyanhe,3,PWR,CPR-1000,Operational,1061,2009,2015,
-China,Hongyanhe,4,PWR,CPR-1000,Operational,1061,2009,2016,
-China,Hongyanhe,5,PWR,ACPR-1000,Operational,1061,2015,2021,
-China,Hongyanhe,6,PWR,ACPR-1000,Operational,1061,2015,2022,
-China,Lianjiang,1,PWR,CAP-1000,Under construction,1100,2023,,
+China,Hongyanhe,1,PWR,CPR-1000,Operational,1061,2007-08-18,2013-06-06,
+China,Hongyanhe,2,PWR,CPR-1000,Operational,1061,2008-03-28,2014-05-13,
+China,Hongyanhe,3,PWR,CPR-1000,Operational,1061,2009-03-07,2015-03-23,
+China,Hongyanhe,4,PWR,CPR-1000,Operational,1061,2009-08-15,2016-04-01,
+China,Hongyanhe,5,PWR,ACPR-1000,Operational,1061,2015-03-29,2021-08-02,
+China,Hongyanhe,6,PWR,ACPR-1000,Operational,1061,2015-07-24,2022-06-23,
+China,Lianjiang,1,PWR,CAP-1000,Under construction,1100,2023-09-27,,
 China,Lianjiang,2,PWR,CAP-1000,Planned,1100,,,
-China,Ling Ao,1,PWR,M-310,Operational,950,1997,2002,
-China,Ling Ao,2,PWR,M-310,Operational,950,1997,2003,
-China,Ling Ao,3,PWR,CPR-1000,Operational,1007,2005,2010,
-China,Ling Ao,4,PWR,CPR-1000,Operational,1007,2006,2011,
+China,Ling Ao,1,PWR,M-310,Operational,950,1997-05-15,2002-05-28,
+China,Ling Ao,2,PWR,M-310,Operational,950,1997-11-28,2003-01-08,
+China,Ling Ao,3,PWR,CPR-1000,Operational,1007,2005-12-15,2010-09-15,
+China,Ling Ao,4,PWR,CPR-1000,Operational,1007,2006-06-15,2011-08-07,
 China,Lufeng,1,PWR,CAP-1000,Planned,1100,,,
 China,Lufeng,2,PWR,CAP-1000,Planned,1100,,,
 China,Lufeng,3,PWR,CAP-1000,Planned,1100,,,
 China,Lufeng,4,PWR,CAP-1000,Planned,1100,,,
-China,Lufeng,5,PWR,Hualong One,Under construction,1000,2022,,
-China,Lufeng,6,PWR,Hualong One,Under construction,1000,2023,,
-China,Ningde,1,PWR,CPR-1000,Operational,1018,2008,2013,
-China,Ningde,2,PWR,CPR-1000,Operational,1018,2008,2014,
-China,Ningde,3,PWR,CPR-1000,Operational,1018,2010,2015,
-China,Ningde,4,PWR,CPR-1000,Operational,1018,2010,2016,
+China,Lufeng,5,PWR,Hualong One,Under construction,1000,2022-09-08,,
+China,Lufeng,6,PWR,Hualong One,Under construction,1000,2023-08-26,,
+China,Ningde,1,PWR,CPR-1000,Operational,1018,2008-02-18,2013-04-15,
+China,Ningde,2,PWR,CPR-1000,Operational,1018,2008-11-12,2014-05-04,
+China,Ningde,3,PWR,CPR-1000,Operational,1018,2010-01-08,2015-06-10,
+China,Ningde,4,PWR,CPR-1000,Operational,1018,2010-09-29,2016-03-29,
 China,Ningde,5,PWR,Hualong One,Planned,1080,,,
 China,Ningde,6,PWR,Hualong One,Planned,1080,,,
 China,Pengze,1,PWR,CAP-1000,Planned,1100,,,
 China,Pengze,2,PWR,CAP-1000,Planned,1100,,,
-China,Qinshan,I-1,PWR,CNP-300,Operational,308,1985,1994,
-China,Qinshan,II-1,PWR,CNP-600,Operational,610,1996,2002,
-China,Qinshan,II-2,PWR,CNP-600,Operational,610,1997,2004,
-China,Qinshan,II-3,PWR,CNP-600,Operational,619,2006,2010,
-China,Qinshan,II-4,PWR,CNP-600,Operational,619,2007,2011,
-China,Qinshan,III-1,PHWR,CANDU-6,Operational,677,1998,2002,
-China,Qinshan,III-2,PHWR,CANDU-6,Operational,677,1998,2003,
-China,San'ao,1,PWR,Hualong One,Under construction,1117,2020,,
-China,San'ao,2,PWR,Hualong One,Under construction,1000,2021,,
-China,Sanmen,1,PWR,AP1000,Operational,1157,2009,2018,
-China,Sanmen,2,PWR,AP1000,Operational,1157,2009,2018,
-China,Sanmen,3,PWR,CAP-1000,Under construction,1163,2022,,
-China,Sanmen,4,PWR,CAP-1000,Under construction,1100,2023,,
-China,Shidaowan,I-1,HTGR,HTR-PM,Operational,200,2012,2023,
-China,Shidaowan,II-1,PWR,CAP-1400,Under construction,1500,2019,,
-China,Shidaowan,II-2,PWR,CAP-1400,Under construction,1500,2020,,
-China,Taipingling,1,PWR,Hualong One,Under construction,1116,2019,,
-China,Taipingling,2,PWR,Hualong One,Under construction,1116,2020,,
-China,Taishan,1,PWR,EPR,Operational,1660,2009,2018,
-China,Taishan,2,PWR,EPR,Operational,1660,2010,2019,
+China,Qinshan,I-1,PWR,CNP-300,Operational,308,1985-03-20,1994-04-01,
+China,Qinshan,II-1,PWR,CNP-600,Operational,610,1996-06-02,2002-04-15,
+China,Qinshan,II-2,PWR,CNP-600,Operational,610,1997-04-01,2004-05-03,
+China,Qinshan,II-3,PWR,CNP-600,Operational,619,2006-04-28,2010-10-05,
+China,Qinshan,II-4,PWR,CNP-600,Operational,619,2007-01-28,2011-12-30,
+China,Qinshan,III-1,PHWR,CANDU-6,Operational,677,1998-06-08,2002-12-31,
+China,Qinshan,III-2,PHWR,CANDU-6,Operational,677,1998-09-25,2003-07-24,
+China,San'ao,1,PWR,Hualong One,Under construction,1117,2020-12-31,,
+China,San'ao,2,PWR,Hualong One,Under construction,1000,2021-12-30,,
+China,Sanmen,1,PWR,AP1000,Operational,1157,2009-04-19,2018-09-21,
+China,Sanmen,2,PWR,AP1000,Operational,1157,2009-12-15,2018-11-05,
+China,Sanmen,3,PWR,CAP-1000,Under construction,1163,2022-06-28,,
+China,Sanmen,4,PWR,CAP-1000,Under construction,1100,2023-03-22,,
+China,Shidaowan,I-1,HTGR,HTR-PM,Operational,200,2012-12-09,2023-12-06,
+China,Shidaowan,II-1,PWR,CAP-1400,Under construction,1500,2019-06-19,,
+China,Shidaowan,II-2,PWR,CAP-1400,Under construction,1500,2020-04-21,,
+China,Taipingling,1,PWR,Hualong One,Under construction,1116,2019-12-26,,
+China,Taipingling,2,PWR,Hualong One,Under construction,1116,2020-10-15,,
+China,Taishan,1,PWR,EPR,Operational,1660,2009-11-18,2018-12-14,
+China,Taishan,2,PWR,EPR,Operational,1660,2010-04-15,2019-09-07,
 China,Taishan,3,PWR,EPR,Planned,1660,,,
 China,Taishan,4,PWR,EPR,Planned,1660,,,
 China,Taohuajiang,1,PWR,CAP-1000,Planned,1100,,,
 China,Taohuajiang,2,PWR,CAP-1000,Planned,1100,,,
 China,Taohuajiang,3,PWR,CAP-1000,Planned,1100,,,
 China,Taohuajiang,4,PWR,CAP-1000,Planned,1100,,,
-China,Tianwan,1,PWR,VVER-1000/V-428,Operational,990,1999,2007,
-China,Tianwan,2,PWR,VVER-1000/V-428,Operational,990,2000,2007,
-China,Tianwan,3,PWR,VVER-1000/V-428M,Operational,1045,2012,2018,
-China,Tianwan,4,PWR,VVER-1000/V-428M,Operational,1045,2013,2018,
-China,Tianwan,5,PWR,ACPR-1000,Operational,1000,2015,2020,
-China,Tianwan,6,PWR,ACPR-1000,Operational,1000,2016,2021,
-China,Tianwan,7,PWR,VVER-1200/V-491,Under construction,1150,2021,,
-China,Tianwan,8,PWR,VVER-1200/V-491,Under construction,1150,2022,,
+China,Tianwan,1,PWR,VVER-1000/V-428,Operational,990,1999-10-20,2007-05-17,
+China,Tianwan,2,PWR,VVER-1000/V-428,Operational,990,2000-09-20,2007-08-16,
+China,Tianwan,3,PWR,VVER-1000/V-428M,Operational,1045,2012-12-27,2018-02-14,
+China,Tianwan,4,PWR,VVER-1000/V-428M,Operational,1045,2013-09-27,2018-12-22,
+China,Tianwan,5,PWR,ACPR-1000,Operational,1000,2015-12-27,2020-09-08,
+China,Tianwan,6,PWR,ACPR-1000,Operational,1000,2016-09-07,2021-06-03,
+China,Tianwan,7,PWR,VVER-1200/V-491,Under construction,1150,2021-05-19,,
+China,Tianwan,8,PWR,VVER-1200/V-491,Under construction,1150,2022-02-25,,
 China,Xianning,1,PWR,CAP-1000,Planned,1100,,,
 China,Xianning,2,PWR,CAP-1000,Planned,1100,,,
-China,Xiapu,I-1,SFR,CFR-600,Under construction,642,2017,,
-China,Xiapu,I-2,SFR,CFR-600,Under construction,642,2020,,
+China,Xiapu,I-1,SFR,CFR-600,Under construction,642,2017-12-29,,
+China,Xiapu,I-2,SFR,CFR-600,Under construction,642,2020-12-27,,
 China,Xiapu,II-1,PWR,CAP-1000,Planned,1100,,,
 China,Xiapu,II-2,PWR,CAP-1000,Planned,1100,,,
 China,Xiapu,II-3,PWR,CAP-1000,Planned,1100,,,
 China,Xiapu,II-4,PWR,CAP-1000,Planned,1100,,,
-China,Xudabao,1,PWR,CAP-1000,Under construction,1250,2023,,
+China,Xudabao,1,PWR,CAP-1000,Under construction,1250,2023-11-15,,
 China,Xudabao,2,PWR,CAP-1000,Planned,1100,,,
-China,Xudabao,3,PWR,VVER-1200/V-491,Under construction,1150,2021,,
-China,Xudabao,4,PWR,VVER-1200/V-491,Under construction,1150,2022,,
-China,Yangjiang,1,PWR,CPR-1000,Operational,1000,2008,2014,
-China,Yangjiang,2,PWR,CPR-1000,Operational,1000,2009,2015,
-China,Yangjiang,3,PWR,CPR-1000+,Operational,1000,2010,2016,
-China,Yangjiang,4,PWR,CPR-1000+,Operational,1000,2012,2017,
-China,Yangjiang,5,PWR,ACPR-1000,Operational,1000,2013,2018,
-China,Yangjiang,6,PWR,ACPR-1000,Operational,1000,2013,2019,
-China,Zhangzhou,1,PWR,Hualong One,Under construction,1126,2019,,
-China,Zhangzhou,2,PWR,Hualong One,Under construction,1126,2020,,
+China,Xudabao,3,PWR,VVER-1200/V-491,Under construction,1150,2021-07-28,,
+China,Xudabao,4,PWR,VVER-1200/V-491,Under construction,1150,2022-05-19,,
+China,Yangjiang,1,PWR,CPR-1000,Operational,1000,2008-12-16,2014-03-25,
+China,Yangjiang,2,PWR,CPR-1000,Operational,1000,2009-06-04,2015-06-08,
+China,Yangjiang,3,PWR,CPR-1000+,Operational,1000,2010-11-15,2016-01-01,
+China,Yangjiang,4,PWR,CPR-1000+,Operational,1000,2012-11-17,2017-03-15,
+China,Yangjiang,5,PWR,ACPR-1000,Operational,1000,2013-09-18,2018-07-12,
+China,Yangjiang,6,PWR,ACPR-1000,Operational,1000,2013-12-23,2019-07-24,
+China,Zhangzhou,1,PWR,Hualong One,Under construction,1126,2019-10-16,,
+China,Zhangzhou,2,PWR,Hualong One,Under construction,1126,2020-09-04,,
 China,Zhangzhou,3,PWR,Hualong One,Planned,1000,,,
 China,Zhangzhou,4,PWR,Hualong One,Planned,1000,,,
-Cuba,Juragua,1,PWR,VVER-440/V-318,Unfinished,440,1983,,1992
-Cuba,Juragua,2,PWR,VVER-440/V-318,Unfinished,440,1985,,1992
-Czech Republic,Dukovany,1,PWR,VVER-440/V-213,Operational,468,1979,1985,
-Czech Republic,Dukovany,2,PWR,VVER-440/V-213,Operational,471,1979,1986,
-Czech Republic,Dukovany,3,PWR,VVER-440/V-213,Operational,468,1979,1986,
-Czech Republic,Dukovany,4,PWR,VVER-440/V-213,Operational,471,1979,1987,
+Cuba,Juragua,1,PWR,VVER-440/V-318,Unfinished,440,1983-01-01,,1992-09-05
+Cuba,Juragua,2,PWR,VVER-440/V-318,Unfinished,440,1985-01-01,,1992-09-05
+Czech Republic,Dukovany,1,PWR,VVER-440/V-213,Operational,468,1979-01-01,1985-05-03,
+Czech Republic,Dukovany,2,PWR,VVER-440/V-213,Operational,471,1979-01-01,1986-03-21,
+Czech Republic,Dukovany,3,PWR,VVER-440/V-213,Operational,468,1979-03-01,1986-12-20,
+Czech Republic,Dukovany,4,PWR,VVER-440/V-213,Operational,471,1979-03-01,1987-07-19,
 Czech Republic,Dukovany,5,PWR,TBD,Planned,1200,,,
-Czech Republic,Temelín,1,PWR,VVER-1000/V-320,Operational,1003,1987,2002,
-Czech Republic,Temelín,2,PWR,VVER-1000/V-320,Operational,1003,1987,2003,
-Egypt,El Dabaa,1,PWR,VVER-1200/V-529,Under construction,1200,2022,,
-Egypt,El Dabaa,2,PWR,VVER-1200/V-529,Under construction,1200,2022,,
-Egypt,El Dabaa,3,PWR,VVER-1200/V-529,Under construction,1200,2023,,
+Czech Republic,Temelín,1,PWR,VVER-1000/V-320,Operational,1003,1987-02-01,2002-06-10,
+Czech Republic,Temelín,2,PWR,VVER-1000/V-320,Operational,1003,1987-02-01,2003-04-18,
+Egypt,El Dabaa,1,PWR,VVER-1200/V-529,Under construction,1200,2022-07-20,,
+Egypt,El Dabaa,2,PWR,VVER-1200/V-529,Under construction,1200,2022-11-19,,
+Egypt,El Dabaa,3,PWR,VVER-1200/V-529,Under construction,1200,2023-05-03,,
 Egypt,El Dabaa,4,PWR,VVER-1200/V-529,Planned,1200,,,
-Finland,Hanhikivi,1,PWR,VVER-1200/V-491,Cancelled,1200,,,2022
-Finland,Loviisa,1,PWR,VVER-440/V-213,Operational,507,1971,1977,
-Finland,Loviisa,2,PWR,VVER-440/V-213,Operational,507,1972,1981,
-Finland,Olkiluoto,1,BWR,"ASEA-III, BWR-2500",Operational,890,1974,1979,
-Finland,Olkiluoto,2,BWR,"ASEA-III, BWR-2500",Operational,890,1975,1982,
-Finland,Olkiluoto,3,PWR,EPR,Operational,1600,2005,2023,
-France,Belleville,1,PWR,P4 REP 1300,Operational,1310,1980,1988,
-France,Belleville,2,PWR,P4 REP 1300,Operational,1310,1980,1989,
-France,Blayais,1,PWR,CP1,Operational,910,1977,1981,
-France,Blayais,2,PWR,CP1,Operational,910,1977,1983,
-France,Blayais,3,PWR,CP1,Operational,910,1978,1983,
-France,Blayais,4,PWR,CP1,Operational,910,1978,1983,
-France,Brennilis,1,HWGCR,,Shut down/in decommissioning,70,1962,1968,1985
-France,Bugey,1,GCR,UNGG,Shut down,540,1965,1972,1994
-France,Bugey,2,PWR,CP0,Operational,910,1972,1979,
-France,Bugey,3,PWR,CP0,Operational,910,1973,1979,
-France,Bugey,4,PWR,CP0,Operational,880,1974,1979,
-France,Bugey,5,PWR,CP0,Operational,880,1974,1980,
+Finland,Hanhikivi,1,PWR,VVER-1200/V-491,Cancelled,1200,,,2022-05-02
+Finland,Loviisa,1,PWR,VVER-440/V-213,Operational,507,1971-05-01,1977-05-09,
+Finland,Loviisa,2,PWR,VVER-440/V-213,Operational,507,1972-08-01,1981-01-05,
+Finland,Olkiluoto,1,BWR,"ASEA-III, BWR-2500",Operational,890,1974-02-01,1979-10-10,
+Finland,Olkiluoto,2,BWR,"ASEA-III, BWR-2500",Operational,890,1975-11-01,1982-07-10,
+Finland,Olkiluoto,3,PWR,EPR,Operational,1600,2005-08-12,2023-04-16,
+France,Belleville,1,PWR,P4 REP 1300,Operational,1310,1980-05-01,1988-06-01,
+France,Belleville,2,PWR,P4 REP 1300,Operational,1310,1980-08-01,1989-01-01,
+France,Blayais,1,PWR,CP1,Operational,910,1977-01-01,1981-12-01,
+France,Blayais,2,PWR,CP1,Operational,910,1977-01-01,1983-02-01,
+France,Blayais,3,PWR,CP1,Operational,910,1978-04-01,1983-11-14,
+France,Blayais,4,PWR,CP1,Operational,910,1978-04-01,1983-10-01,
+France,Brennilis,1,HWGCR,,Shut down/in decommissioning,70,1962-07-01,1968-06-01,1985-07-31
+France,Bugey,1,GCR,UNGG,Shut down,540,1965-12-01,1972-07-01,1994-05-27
+France,Bugey,2,PWR,CP0,Operational,910,1972-11-01,1979-03-01,
+France,Bugey,3,PWR,CP0,Operational,910,1973-09-01,1979-03-01,
+France,Bugey,4,PWR,CP0,Operational,880,1974-06-01,1979-07-01,
+France,Bugey,5,PWR,CP0,Operational,880,1974-07-01,1980-01-03,
 France,Bugey,6,PWR,EPR2,Planned,1670,,,
 France,Bugey,7,PWR,EPR2,Planned,1670,,,
-France,Cattenom,1,PWR,P4 REP 1300,Operational,1300,1979,1987,
-France,Cattenom,2,PWR,P4 REP 1300,Operational,1300,1980,1988,
-France,Cattenom,3,PWR,P4 REP 1300,Operational,1300,1982,1991,
-France,Cattenom,4,PWR,P4 REP 1300,Operational,1300,1983,1992,
-France,Chinon,A-1,GCR,UNGG,Shut down,70,1957,1964,1973
-France,Chinon,A-2,GCR,UNGG,Shut down,180,1959,1965,1985
-France,Chinon,A-3,GCR,UNGG,Shut down,360,1961,1966,1990
-France,Chinon,B-1,PWR,CP2,Operational,905,1977,1984,
-France,Chinon,B-2,PWR,CP2,Operational,905,1977,1984,
-France,Chinon,B-3,PWR,CP2,Operational,905,1980,1987,
-France,Chinon,B-4,PWR,CP2,Operational,905,1981,1988,
-France,Chooz,A-1,PWR,CHOOZ-A,Decommissioned,305,1962,1967,1991
-France,Chooz,B-1,PWR,N4 REP 1450,Operational,1500,1984,2000,
-France,Chooz,B-2,PWR,N4 REP 1450,Operational,1500,1984,2000,
-France,Civaux,1,PWR,N4 REP 1450,Operational,1495,1988,2002,
-France,Civaux,2,PWR,N4 REP 1450,Operational,1495,1991,2002,
-France,Cruas,1,PWR,CP2,Operational,915,1978,1984,
-France,Cruas,2,PWR,CP2,Operational,915,1978,1985,
-France,Cruas,3,PWR,CP2,Operational,915,1979,1984,
-France,Cruas,4,PWR,CP2,Operational,915,1979,1985,
-France,Dampierre,1,PWR,CP1,Operational,890,1975,1980,
-France,Dampierre,2,PWR,CP1,Operational,890,1975,1981,
-France,Dampierre,3,PWR,CP1,Operational,890,1975,1981,
-France,Dampierre,4,PWR,CP1,Operational,890,1975,1981,
-France,Fessenheim,1,PWR,CP0,Shut down,880,1971,1978,2020
-France,Fessenheim,2,PWR,CP0,Shut down,880,1972,1978,2020
-France,Flamanville,1,PWR,P4 REP 1300,Operational,1330,1979,1986,
-France,Flamanville,2,PWR,P4 REP 1300,Operational,1330,1980,1987,
-France,Flamanville,3,PWR,EPR,Under construction,1600,2007,,
-France,Golfech,1,PWR,P4 REP 1300,Operational,1310,1982,1991,
-France,Golfech,2,PWR,P4 REP 1300,Operational,1310,1984,1994,
-France,Gravelines,1,PWR,CP1,Operational,910,1975,1980,
-France,Gravelines,2,PWR,CP1,Operational,910,1975,1980,
-France,Gravelines,3,PWR,CP1,Operational,910,1975,1981,
-France,Gravelines,4,PWR,CP1,Operational,910,1976,1981,
-France,Gravelines,5,PWR,CP1,Operational,910,1979,1985,
-France,Gravelines,6,PWR,CP1,Operational,910,1979,1985,
+France,Cattenom,1,PWR,P4 REP 1300,Operational,1300,1979-10-29,1987-04-01,
+France,Cattenom,2,PWR,P4 REP 1300,Operational,1300,1980-07-28,1988-02-01,
+France,Cattenom,3,PWR,P4 REP 1300,Operational,1300,1982-06-15,1991-02-01,
+France,Cattenom,4,PWR,P4 REP 1300,Operational,1300,1983-09-28,1992-01-01,
+France,Chinon,A-1,GCR,UNGG,Shut down,70,1957-02-01,1964-02-01,1973-04-16
+France,Chinon,A-2,GCR,UNGG,Shut down,180,1959-08-01,1965-02-24,1985-06-14
+France,Chinon,A-3,GCR,UNGG,Shut down,360,1961-03-01,1966-08-04,1990-06-15
+France,Chinon,B-1,PWR,CP2,Operational,905,1977-03-01,1984-02-01,
+France,Chinon,B-2,PWR,CP2,Operational,905,1977-03-01,1984-08-01,
+France,Chinon,B-3,PWR,CP2,Operational,905,1980-10-01,1987-03-04,
+France,Chinon,B-4,PWR,CP2,Operational,905,1981-02-01,1988-04-01,
+France,Chooz,A-1,PWR,CHOOZ-A,Decommissioned,305,1962-01-01,1967-04-15,1991-10-30
+France,Chooz,B-1,PWR,N4 REP 1450,Operational,1500,1984-01-01,2000-05-15,
+France,Chooz,B-2,PWR,N4 REP 1450,Operational,1500,1984-01-01,2000-05-15,
+France,Civaux,1,PWR,N4 REP 1450,Operational,1495,1988-10-15,2002-01-29,
+France,Civaux,2,PWR,N4 REP 1450,Operational,1495,1991-04-01,2002-04-23,
+France,Cruas,1,PWR,CP2,Operational,915,1978-08-01,1984-04-02,
+France,Cruas,2,PWR,CP2,Operational,915,1978-11-15,1985-04-01,
+France,Cruas,3,PWR,CP2,Operational,915,1979-04-15,1984-09-10,
+France,Cruas,4,PWR,CP2,Operational,915,1979-10-01,1985-02-11,
+France,Dampierre,1,PWR,CP1,Operational,890,1975-02-01,1980-09-10,
+France,Dampierre,2,PWR,CP1,Operational,890,1975-04-01,1981-02-16,
+France,Dampierre,3,PWR,CP1,Operational,890,1975-09-01,1981-05-27,
+France,Dampierre,4,PWR,CP1,Operational,890,1975-12-01,1981-11-20,
+France,Fessenheim,1,PWR,CP0,Shut down,880,1971-09-01,1978-01-01,2020-02-22
+France,Fessenheim,2,PWR,CP0,Shut down,880,1972-02-01,1978-04-01,2020-06-29
+France,Flamanville,1,PWR,P4 REP 1300,Operational,1330,1979-12-01,1986-12-01,
+France,Flamanville,2,PWR,P4 REP 1300,Operational,1330,1980-05-01,1987-03-09,
+France,Flamanville,3,PWR,EPR,Under construction,1600,2007-12-03,,
+France,Golfech,1,PWR,P4 REP 1300,Operational,1310,1982-11-17,1991-02-01,
+France,Golfech,2,PWR,P4 REP 1300,Operational,1310,1984-10-01,1994-03-04,
+France,Gravelines,1,PWR,CP1,Operational,910,1975-02-01,1980-11-25,
+France,Gravelines,2,PWR,CP1,Operational,910,1975-03-01,1980-12-01,
+France,Gravelines,3,PWR,CP1,Operational,910,1975-12-01,1981-06-01,
+France,Gravelines,4,PWR,CP1,Operational,910,1976-04-01,1981-10-01,
+France,Gravelines,5,PWR,CP1,Operational,910,1979-10-01,1985-01-15,
+France,Gravelines,6,PWR,CP1,Operational,910,1979-10-01,1985-10-25,
 France,Gravelines,7,PWR,EPR2,Planned,1670,,,
 France,Gravelines,8,PWR,EPR2,Planned,1670,,,
-France,Nogent,1,PWR,P4 REP 1300,Operational,1310,1981,1988,
-France,Nogent,2,PWR,P4 REP 1300,Operational,1310,1982,1989,
-France,Paluel,1,PWR,P4 REP 1300,Operational,1330,1977,1985,
-France,Paluel,2,PWR,P4 REP 1300,Operational,1330,1978,1985,
-France,Paluel,3,PWR,P4 REP 1300,Operational,1330,1979,1986,
-France,Paluel,4,PWR,P4 REP 1300,Operational,1330,1980,1986,
-France,Penly,1,PWR,P4 REP 1300,Operational,1330,1982,1990,
-France,Penly,2,PWR,P4 REP 1300,Operational,1330,1984,1992,
+France,Nogent,1,PWR,P4 REP 1300,Operational,1310,1981-05-26,1988-02-24,
+France,Nogent,2,PWR,P4 REP 1300,Operational,1310,1982-01-01,1989-05-01,
+France,Paluel,1,PWR,P4 REP 1300,Operational,1330,1977-08-15,1985-12-01,
+France,Paluel,2,PWR,P4 REP 1300,Operational,1330,1978-01-01,1985-12-01,
+France,Paluel,3,PWR,P4 REP 1300,Operational,1330,1979-02-01,1986-02-01,
+France,Paluel,4,PWR,P4 REP 1300,Operational,1330,1980-02-01,1986-06-01,
+France,Penly,1,PWR,P4 REP 1300,Operational,1330,1982-09-01,1990-12-01,
+France,Penly,2,PWR,P4 REP 1300,Operational,1330,1984-08-01,1992-11-01,
 France,Penly,3,PWR,EPR2,Planned,1670,,,
 France,Penly,4,PWR,EPR2,Planned,1670,,,
-France,Phénix,1,FBR,PH-250,Shut down,130,1968,1974,2010
-France,Saint-Alban,1,PWR,P4 REP 1300,Operational,1335,1979,1986,
-France,Saint-Alban,2,PWR,P4 REP 1300,Operational,1335,1979,1987,
-France,Saint-Laurent,A-1,GCR,UNGG,Shut down,390,1963,1969,1990
-France,Saint-Laurent,A-2,GCR,UNGG,Shut down,465,1966,1971,1992
-France,Saint-Laurent,B-1,PWR,CP2,Operational,915,1976,1983,
-France,Saint-Laurent,B-2,PWR,CP2,Operational,915,1976,1983,
-France,Superphénix,1,FBR,Na-1200,Shut down/in decommissioning,1200,1976,1986,1998
-France,Tricastin,1,PWR,CP1,Operational,915,1974,1980,
-France,Tricastin,2,PWR,CP1,Operational,915,1974,1980,
-France,Tricastin,3,PWR,CP1,Operational,915,1975,1981,
-France,Tricastin,4,PWR,CP1,Operational,915,1975,1981,
-Germany,AVR,1,HTGR,PBR Prototype,Shut down,13,1961,1969,1988
-Germany,Biblis,1,PWR,Siemens-KWU,Shut down/in decommissioning,1167,1970,1975,2011
-Germany,Biblis,2,PWR,KWU,Shut down/in decommissioning,1240,1972,1977,2011
-Germany,Brokdorf,1,PWR,KWU,Shut down,1410,1976,1986,2021
-Germany,Brunsbüttel,1,BWR,BWR-69,Shut down,771,1970,1977,2011
-Germany,Emsland,1,PWR,Konvoi (KWU),Shut down,1329,1982,1988,2023
-Germany,Grafenrheinfeld,1,PWR,KWU,Shut down,1275,1975,1982,2015
-Germany,Greifswald,1,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1970,1974,1990
-Germany,Greifswald,2,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1970,1975,1990
-Germany,Greifswald,3,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1972,1978,1990
-Germany,Greifswald,4,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1972,1979,1990
-Germany,Greifswald,5,PWR,VVER-440/V-213,Shut down/in decommissioning,408,1976,1989,1989
+France,Phénix,1,FBR,PH-250,Shut down,130,1968-11-01,1974-07-14,2010-02-01
+France,Saint-Alban,1,PWR,P4 REP 1300,Operational,1335,1979-01-29,1986-05-01,
+France,Saint-Alban,2,PWR,P4 REP 1300,Operational,1335,1979-07-31,1987-03-01,
+France,Saint-Laurent,A-1,GCR,UNGG,Shut down,390,1963-10-01,1969-06-01,1990-04-18
+France,Saint-Laurent,A-2,GCR,UNGG,Shut down,465,1966-01-01,1971-11-01,1992-05-27
+France,Saint-Laurent,B-1,PWR,CP2,Operational,915,1976-05-01,1983-08-01,
+France,Saint-Laurent,B-2,PWR,CP2,Operational,915,1976-07-01,1983-08-01,
+France,Superphénix,1,FBR,Na-1200,Shut down/in decommissioning,1200,1976-12-13,1986-12-01,1998-12-31
+France,Tricastin,1,PWR,CP1,Operational,915,1974-11-01,1980-12-01,
+France,Tricastin,2,PWR,CP1,Operational,915,1974-12-01,1980-12-01,
+France,Tricastin,3,PWR,CP1,Operational,915,1975-04-01,1981-05-11,
+France,Tricastin,4,PWR,CP1,Operational,915,1975-05-01,1981-11-01,
+Germany,AVR,1,HTGR,PBR Prototype,Shut down,13,1961-08-01,1969-05-19,1988-12-31
+Germany,Biblis,1,PWR,Siemens-KWU,Shut down/in decommissioning,1167,1970-01-01,1975-02-26,2011-08-06
+Germany,Biblis,2,PWR,KWU,Shut down/in decommissioning,1240,1972-02-01,1977-01-31,2011-08-06
+Germany,Brokdorf,1,PWR,KWU,Shut down,1410,1976-01-01,1986-12-22,2021-12-31
+Germany,Brunsbüttel,1,BWR,BWR-69,Shut down,771,1970-04-15,1977-02-09,2011-08-06
+Germany,Emsland,1,PWR,Konvoi (KWU),Shut down,1329,1982-08-10,1988-06-20,2023-04-15
+Germany,Grafenrheinfeld,1,PWR,KWU,Shut down,1275,1975-01-01,1982-06-17,2015-06-27
+Germany,Greifswald,1,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1970-03-01,1974-07-12,1990-02-14
+Germany,Greifswald,2,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1970-03-01,1975-04-16,1990-02-14
+Germany,Greifswald,3,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1972-04-01,1978-05-01,1990-02-28
+Germany,Greifswald,4,PWR,VVER-440/V-230,Shut down/in decommissioning,408,1972-04-01,1979-11-01,1990-07-22
+Germany,Greifswald,5,PWR,VVER-440/V-213,Shut down/in decommissioning,408,1976-12-01,1989-11-01,1989-11-24
 Germany,Greifswald,6,PWR,VVER-440/V-213,Finished; never entered service,408,,,
-Germany,Grohnde,1,PWR,KWU,Shut down,1360,1976,1985,2021
-Germany,Grosswelzheim,1,BWR,BWR,Dismantled,25,1965,1970,1971
-Germany,Gundremmingen,A,BWR,"GE, BWR-1",Shut down/in decommissioning,237,1962,1967,1977
-Germany,Gundremmingen,B,BWR,BWR-72 (KWU),Shut down,1284,1976,1984,2017
-Germany,Gundremmingen,C,BWR,BWR-72 (KWU),Shut down,1288,1976,1985,2021
-Germany,Isar,1,BWR,BWR-69,Shut down/in decommissioning,878,1972,1979,2011
-Germany,Isar,2,PWR,Konvoi (KWU),Shut down,1410,1982,1988,2023
-Germany,Kahl,1,BWR,BWR,Dismantled,15,1958,1962,1985
-Germany,SNR-300,1,FBR,,Finished; never entered service,,1972,,1985
-Germany,KNK II,1,FBR,,Shut down,17,1974,1979,1991
-Germany,Krümmel,1,BWR,BWR-69 (KWU),Shut down,1346,1974,1984,2011
-Germany,Lingen,1,BWR,BWR,Shut down,183,1964,1968,1977
-Germany,Mülheim-Kärlich,1,PWR,B & W,Shut down/in decommissioning,1219,1975,1987,1988
-Germany,MZFR,1,PHWR,PHWR,Shut down,52,1961,1966,1984
-Germany,Neckarwestheim,1,PWR,KWU,Shut down,785,1972,1976,2011
-Germany,Neckarwestheim,2,PWR,Konvoi (KWU),Shut down,1310,1982,1989,2023
-Germany,Niederaichbach,1,HWGCR,Pressure tube reactor,Shut down/decommissioned,100,1966,1973,1974
-Germany,Obrigheim,1,PWR,Siemens,Shut down/in decommissioning,340,1965,1969,2005
-Germany,Philippsburg,1,BWR,BWR-69,Shut down,890,1970,1980,2011
-Germany,Philippsburg,2,PWR,KWU,Shut down,1402,1977,1985,2019
-Germany,Rheinsberg,1,PWR,VVER-70,Shut down/in decommissioning,62,1960,1966,1990
-Germany,Stade,1,PWR,Siemens,Shut down/in decommissioning,640,1967,1972,2003
-Germany,Stendal,1,PWR,VVER-1000/V-320,Unfinished,,1983,,1990
-Germany,Stendal,2,PWR,VVER-1000/V-320,Unfinished,,1983,,1990
-Germany,THTR-300,1,HTGR,PBR,Decommissioned,296,1971,1987,1988
-Germany,Unterweser,1,PWR,KWU,Shut down/in decommissioning,1345,1972,1979,2011
-Germany,Würgassen,1,BWR,BWR-69 (AEG),Shut down/in decommissioning,640,1968,1975,1994
-Hungary,Paks,1,PWR,VVER-440/V-213,Operational,470,1974,1983,
-Hungary,Paks,2,PWR,VVER-440/V-213,Operational,473,1974,1984,
-Hungary,Paks,3,PWR,VVER-440/V-213,Operational,473,1979,1986,
-Hungary,Paks,4,PWR,VVER-440/V-213,Operational,471,1979,1987,
+Germany,Grohnde,1,PWR,KWU,Shut down,1360,1976-06-01,1985-02-01,2021-12-31
+Germany,Grosswelzheim,1,BWR,BWR,Dismantled,25,1965-01-01,1970-08-02,1971-04-20
+Germany,Gundremmingen,A,BWR,"GE, BWR-1",Shut down/in decommissioning,237,1962-12-12,1967-04-12,1977-01-13
+Germany,Gundremmingen,B,BWR,BWR-72 (KWU),Shut down,1284,1976-07-20,1984-07-19,2017-12-31
+Germany,Gundremmingen,C,BWR,BWR-72 (KWU),Shut down,1288,1976-07-20,1985-01-18,2021-12-31
+Germany,Isar,1,BWR,BWR-69,Shut down/in decommissioning,878,1972-05-01,1979-03-21,2011-08-06
+Germany,Isar,2,PWR,Konvoi (KWU),Shut down,1410,1982-09-15,1988-04-09,2023-04-15
+Germany,Kahl,1,BWR,BWR,Dismantled,15,1958-07-01,1962-02-01,1985-11-25
+Germany,SNR-300,1,FBR,,Finished; never entered service,,1972-01-01,,1985-01-01
+Germany,KNK II,1,FBR,,Shut down,17,1974-09-01,1979-03-03,1991-08-23
+Germany,Krümmel,1,BWR,BWR-69 (KWU),Shut down,1346,1974-04-05,1984-03-28,2011-08-06
+Germany,Lingen,1,BWR,BWR,Shut down,183,1964-10-01,1968-10-01,1977-01-05
+Germany,Mülheim-Kärlich,1,PWR,B & W,Shut down/in decommissioning,1219,1975-01-15,1987-08-08,1988-09-09
+Germany,MZFR,1,PHWR,PHWR,Shut down,52,1961-12-01,1966-12-19,1984-05-03
+Germany,Neckarwestheim,1,PWR,KWU,Shut down,785,1972-02-01,1976-12-01,2011-08-06
+Germany,Neckarwestheim,2,PWR,Konvoi (KWU),Shut down,1310,1982-11-09,1989-04-15,2023-04-15
+Germany,Niederaichbach,1,HWGCR,Pressure tube reactor,Shut down/decommissioned,100,1966-06-01,1973-01-01,1974-07-31
+Germany,Obrigheim,1,PWR,Siemens,Shut down/in decommissioning,340,1965-03-15,1969-03-31,2005-05-11
+Germany,Philippsburg,1,BWR,BWR-69,Shut down,890,1970-10-01,1980-03-26,2011-08-06
+Germany,Philippsburg,2,PWR,KWU,Shut down,1402,1977-07-07,1985-04-18,2019-12-31
+Germany,Rheinsberg,1,PWR,VVER-70,Shut down/in decommissioning,62,1960-01-01,1966-10-11,1990-06-01
+Germany,Stade,1,PWR,Siemens,Shut down/in decommissioning,640,1967-12-01,1972-05-19,2003-11-04
+Germany,Stendal,1,PWR,VVER-1000/V-320,Unfinished,,1983-01-01,,1990-01-01
+Germany,Stendal,2,PWR,VVER-1000/V-320,Unfinished,,1983-01-01,,1990-01-01
+Germany,THTR-300,1,HTGR,PBR,Decommissioned,296,1971-05-03,1987-06-01,1988-09-29
+Germany,Unterweser,1,PWR,KWU,Shut down/in decommissioning,1345,1972-07-01,1979-09-06,2011-08-06
+Germany,Würgassen,1,BWR,BWR-69 (AEG),Shut down/in decommissioning,640,1968-01-26,1975-11-11,1994-08-26
+Hungary,Paks,1,PWR,VVER-440/V-213,Operational,470,1974-08-01,1983-08-10,
+Hungary,Paks,2,PWR,VVER-440/V-213,Operational,473,1974-08-01,1984-11-14,
+Hungary,Paks,3,PWR,VVER-440/V-213,Operational,473,1979-10-01,1986-12-01,
+Hungary,Paks,4,PWR,VVER-440/V-213,Operational,471,1979-10-01,1987-11-01,
 Hungary,Paks,5,PWR,VVER-1200,Planned,1114,,,
 Hungary,Paks,6,PWR,VVER-1200,Planned,1114,,,
 India,Chutka,1,PHWR,IPHWR-700,Planned,630,,,
@@ -327,142 +327,142 @@ India,Jaitapur,3,PWR,EPR,Planned,1600,,,
 India,Jaitapur,4,PWR,EPR,Planned,1600,,,
 India,Jaitapur,5,PWR,EPR,Planned,1600,,,
 India,Jaitapur,6,PWR,EPR,Planned,1600,,,
-India,Kaiga,1,PHWR,IPHWR-220,Operational,202,1989,2000,
-India,Kaiga,2,PHWR,IPHWR-220,Operational,202,1989,2000,
-India,Kaiga,3,PHWR,IPHWR-220,Operational,202,2002,2007,
-India,Kaiga,4,PHWR,IPHWR-220,Operational,202,2002,2011,
+India,Kaiga,1,PHWR,IPHWR-220,Operational,202,1989-09-01,2000-11-16,
+India,Kaiga,2,PHWR,IPHWR-220,Operational,202,1989-12-01,2000-03-16,
+India,Kaiga,3,PHWR,IPHWR-220,Operational,202,2002-03-30,2007-05-06,
+India,Kaiga,4,PHWR,IPHWR-220,Operational,202,2002-05-10,2011-01-20,
 India,Kaiga,5,PHWR,IPHWR-700,Planned,630,,,
 India,Kaiga,6,PHWR,IPHWR-700,Planned,630,,,
-India,Kakrapar,1,PHWR,IPHWR-220,Operational,202,1984,1993,
-India,Kakrapar,2,PHWR,IPHWR-220,Operational,202,1985,1995,
-India,Kakrapar,3,PHWR,IPHWR-700,Operational,630,2010,2023,
-India,Kakrapar,4,PHWR,IPHWR-700,Under construction,630,2010,,
-India,Kudankulam,1,PWR,VVER-1000/V-412,Operational,932,2002,2014,
-India,Kudankulam,2,PWR,VVER-1000/V-412,Operational,932,2002,2017,
-India,Kudankulam,3,PWR,VVER-1000/V-412,Under construction,917,2017,,
-India,Kudankulam,4,PWR,VVER-1000/V-412,Under construction,917,2017,,
-India,Kudankulam,5,PWR,VVER-1000/V-412,Under construction,917,2021,,
-India,Kudankulam,6,PWR,VVER-1000/V-412,Under construction,917,2021,,
-India,Madras,1,PHWR,IPHWR-220,Operational,205,1971,1984,
-India,Madras,2,PHWR,IPHWR-220,Operational,205,1972,1986,
+India,Kakrapar,1,PHWR,IPHWR-220,Operational,202,1984-12-01,1993-05-06,
+India,Kakrapar,2,PHWR,IPHWR-220,Operational,202,1985-04-01,1995-09-01,
+India,Kakrapar,3,PHWR,IPHWR-700,Operational,630,2010-11-22,2023-06-30,
+India,Kakrapar,4,PHWR,IPHWR-700,Under construction,630,2010-11-22,,
+India,Kudankulam,1,PWR,VVER-1000/V-412,Operational,932,2002-03-31,2014-12-31,
+India,Kudankulam,2,PWR,VVER-1000/V-412,Operational,932,2002-07-04,2017-03-31,
+India,Kudankulam,3,PWR,VVER-1000/V-412,Under construction,917,2017-06-30,,
+India,Kudankulam,4,PWR,VVER-1000/V-412,Under construction,917,2017-10-23,,
+India,Kudankulam,5,PWR,VVER-1000/V-412,Under construction,917,2021-06-29,,
+India,Kudankulam,6,PWR,VVER-1000/V-412,Under construction,917,2021-12-20,,
+India,Madras,1,PHWR,IPHWR-220,Operational,205,1971-01-01,1984-01-27,
+India,Madras,2,PHWR,IPHWR-220,Operational,205,1972-10-01,1986-03-21,
 India,Mahi Banswara,1,PHWR,IPHWR-700,Planned,630,,,
 India,Mahi Banswara,2,PHWR,IPHWR-700,Planned,630,,,
 India,Mahi Banswara,3,PHWR,IPHWR-700,Planned,630,,,
 India,Mahi Banswara,4,PHWR,IPHWR-700,Planned,630,,,
-India,Narora,1,PHWR,IPHWR-220,Operational,202,1976,1991,
-India,Narora,2,PHWR,IPHWR-220,Operational,202,1977,1992,
-India,PFBR,1,FBR,Prototype,Under construction,470,2004,,
-India,Rajasthan,1,PHWR,CANDU,Shut down,90,1965,1973,2004
-India,Rajasthan,2,PHWR,CANDU,Operational,187,1968,1981,
-India,Rajasthan,3,PHWR,IPHWR-220,Operational,202,1990,2000,
-India,Rajasthan,4,PHWR,IPHWR-220,Operational,202,1990,2000,
-India,Rajasthan,5,PHWR,IPHWR-220,Operational,202,2002,2010,
-India,Rajasthan,6,PHWR,IPHWR-220,Operational,202,2003,2010,
-India,Rajasthan,7,PHWR,IPHWR-700,Under construction,630,2011,,
-India,Rajasthan,8,PHWR,IPHWR-700,Under construction,630,2011,,
-India,Tarapur,1,BWR,"BWR-1, Mark 1",Operational,150,1964,1969,
-India,Tarapur,2,BWR,"BWR-1, Mark 1",Operational,150,1964,1969,
-India,Tarapur,3,PHWR,IPHWR-540,Operational,490,2000,2006,
-India,Tarapur,4,PHWR,IPHWR-540,Operational,490,2000,2005,
-Iran,Bushehr,1,PWR,VVER-1000/V-446,Operational,915,1975,2013,
-Iran,Bushehr,2,PWR,VVER-1000/V-528,Under construction,915,2019,,
+India,Narora,1,PHWR,IPHWR-220,Operational,202,1976-12-01,1991-01-01,
+India,Narora,2,PHWR,IPHWR-220,Operational,202,1977-11-01,1992-07-01,
+India,PFBR,1,FBR,Prototype,Under construction,470,2004-10-23,,
+India,Rajasthan,1,PHWR,CANDU,Shut down,90,1965-08-01,1973-12-16,2004-10-09
+India,Rajasthan,2,PHWR,CANDU,Operational,187,1968-04-01,1981-04-01,
+India,Rajasthan,3,PHWR,IPHWR-220,Operational,202,1990-02-01,2000-06-01,
+India,Rajasthan,4,PHWR,IPHWR-220,Operational,202,1990-10-01,2000-12-23,
+India,Rajasthan,5,PHWR,IPHWR-220,Operational,202,2002-09-18,2010-02-04,
+India,Rajasthan,6,PHWR,IPHWR-220,Operational,202,2003-01-20,2010-03-31,
+India,Rajasthan,7,PHWR,IPHWR-700,Under construction,630,2011-07-18,,
+India,Rajasthan,8,PHWR,IPHWR-700,Under construction,630,2011-09-30,,
+India,Tarapur,1,BWR,"BWR-1, Mark 1",Operational,150,1964-10-01,1969-10-28,
+India,Tarapur,2,BWR,"BWR-1, Mark 1",Operational,150,1964-10-01,1969-10-28,
+India,Tarapur,3,PHWR,IPHWR-540,Operational,490,2000-05-12,2006-08-18,
+India,Tarapur,4,PHWR,IPHWR-540,Operational,490,2000-03-08,2005-09-12,
+Iran,Bushehr,1,PWR,VVER-1000/V-446,Operational,915,1975-05-01,2013-09-23,
+Iran,Bushehr,2,PWR,VVER-1000/V-528,Under construction,915,2019-09-27,,
 Iran,Bushehr,3,PWR,VVER-1000,Planned,915,,,
 Iran,Darkhovin,1,PWR,,Unfinished; restart planned,360,,,
-Italy,Caorso,1,BWR,BWR-4 Mark2,Shut down/in decommissioning,860,1970,1981,1990
-Italy,Enrico Fermi,1,PWR,WH 4-loop,Shut down/in decommissioning,260,1961,1965,1990
-Italy,Garigliano,1,BWR,BWR-1,Shut down/in decommissioning,150,1959,1964,1982
-Italy,Latina,1,GCR,Magnox,Shut down/in decommissioning,153,1958,1964,1987
-Italy,Alto Lazio,1,BWR,,Unfinished,982,1982,,1988
-Italy,Alto Lazio,2,BWR,,Unfinished,982,1982,,1988
-Italy,Trino 2 [],1,PWR,,Unfinished,950,,,1987
-Italy,Trino 2 [],2,PWR,,Unfinished,950,,,1987
-Japan,Fugen,1,HWLWR,ATR,Shut down,148,1972,1979,2003
-Japan,Fukushima Daiichi,1,BWR,BWR-3,Inoperable,439,1967,1971,2011
-Japan,Fukushima Daiichi,2,BWR,BWR-4,Inoperable,760,1969,1974,2011
-Japan,Fukushima Daiichi,3,BWR,BWR-4,Inoperable,760,1970,1976,2011
-Japan,Fukushima Daiichi,4,BWR,BWR-4,Inoperable,760,1973,1978,2011
-Japan,Fukushima Daiichi,5,BWR,BWR-4,Shut down,760,1972,1978,2013
-Japan,Fukushima Daiichi,6,BWR,BWR-5,Shut down,1067,1973,1979,2013
-Japan,Fukushima Daini,1,BWR,BWR-5,Shut down,1067,1976,1982,2019
-Japan,Fukushima Daini,2,BWR,BWR-5,Shut down,1067,1979,1984,2019
-Japan,Fukushima Daini,3,BWR,BWR-5,Shut down,1067,1981,1985,2019
-Japan,Fukushima Daini,4,BWR,BWR-5,Shut down,1067,1981,1987,2019
-Japan,Genkai,1,PWR,Mitsubishi (2-loop),Shut down,529,1971,1975,2015
-Japan,Genkai,2,PWR,Mitsubishi (2-loop),Shut down,529,1977,1981,2019
-Japan,Genkai,3,PWR,Mitsubishi (4-loop),Operational,1127,1988,1994,
-Japan,Genkai,4,PWR,Mitsubishi (4-loop),Operational,1127,1992,1997,
-Japan,Hamaoka,1,BWR,BWR-4,Shut down,515,1971,1976,2009
-Japan,Hamaoka,2,BWR,BWR-4,Shut down,806,1974,1978,2009
-Japan,Hamaoka,3,BWR,BWR-5,Operation suspended(under review),1056,1983,1987,
-Japan,Hamaoka,4,BWR,BWR-5,Operation suspended(under review),1092,1989,1993,
-Japan,Hamaoka,5,BWR,ABWR,Operation suspended,1325,2000,2005,
-Japan,Higashidōri (Tōhoku),1,BWR,BWR-5,Operation suspended(under review),1067,2000,2005,
-Japan,Higashidōri (Tokyo),1,BWR,ABWR,Unfinished; restart planned,1350,2011,,
-Japan,Ikata,1,PWR,Mitsubishi (2-loop),Shut down,538,1973,1977,2016
-Japan,Ikata,2,PWR,Mitsubishi (2-loop),Shut down,538,1978,1982,2018
-Japan,Ikata,3,PWR,Mitsubishi (3-loop),Operational,846,1990,1994,
-Japan,Kashiwazaki-Kariwa,1,BWR,BWR-5,Operation suspended,1067,1980,1985,
-Japan,Kashiwazaki-Kariwa,2,BWR,BWR-5,Operation suspended,1067,1985,1990,
-Japan,Kashiwazaki-Kariwa,3,BWR,BWR-5,Operation suspended,1067,1989,1993,
-Japan,Kashiwazaki-Kariwa,4,BWR,BWR-5,Operation suspended,1067,1990,1994,
-Japan,Kashiwazaki-Kariwa,5,BWR,BWR-5,Operation suspended,1067,1985,1990,
-Japan,Kashiwazaki-Kariwa,6,BWR,ABWR,Operation suspended(restart approved),1315,1992,1996,
-Japan,Kashiwazaki-Kariwa,7,BWR,ABWR,Operation suspended(restart approved),1315,1993,1997,
-Japan,Mihama,1,PWR,Mitsubishi (2-loop),Shut down,320,1967,1970,2015
-Japan,Mihama,2,PWR,Mitsubishi (2-loop),Shut down,470,1968,1972,2015
-Japan,Mihama,3,PWR,Mitsubishi (3-loop),Operational,780,1972,1976,
-Japan,Monju,1,FBR,,Shut down,246,1986,1995,2017
-Japan,Ōi,1,PWR,W (4-loop),Shut down,1120,1972,1979,2017
-Japan,Ōi,2,PWR,Westinghouse (4-loop),Shut down,1120,1972,1979,2017
-Japan,Ōi,3,PWR,Mitsubishi (4-loop),Operational,1127,1987,1991,
-Japan,Ōi,4,PWR,Mitsubishi (4-loop),Operational,1127,1988,1993,
-Japan,Ōma,1,BWR,ABWR,Under construction,1325,2010,,
-Japan,Onagawa,1,BWR,BWR-4,Shut down,498,1980,1984,2018
-Japan,Onagawa,2,BWR,BWR-5,Operation suspended(restart approved),796,1991,1995,
-Japan,Onagawa,3,BWR,BWR-5,Operation suspended,796,1998,2002,
-Japan,Sendai,1,PWR,Mitsubishi (3-loop),Operational,846,1979,1984,
-Japan,Sendai,2,PWR,Mitsubishi (3-loop),Operational,846,1981,1985,
-Japan,Shika,1,BWR,BWR-5,Operation suspended,505,1989,1993,
-Japan,Shika,2,BWR,ABWR,Operation suspended(under review),1108,2001,2006,
-Japan,Shimane,1,BWR,BWR-3,Shut down,439,1970,1974,2015
-Japan,Shimane,2,BWR,BWR-5,Operation suspended(restart approved),789,1985,1989,
-Japan,Shimane,3,BWR,ABWR,Under construction,1325,2007,,
-Japan,Takahama,1,PWR,Mitsubishi (3-loop),Operational,780,1970,1974,
-Japan,Takahama,2,PWR,Mitsubishi (3-loop),Operational,780,1971,1975,
-Japan,Takahama,3,PWR,Mitsubishi (3-loop),Operational,830,1980,1985,
-Japan,Takahama,4,PWR,Mitsubishi (3-loop),Operational,830,1981,1985,
-Japan,Tōkai,1,GCR,Magnox,Shut down,137,1961,1966,1998
-Japan,Tōkai,2,BWR,BWR-5,Operation suspended(restart approved),1060,1973,1978,
-Japan,Tomari,1,PWR,Mitsubishi (2-loop),Operation suspended(under review),550,1985,1989,
-Japan,Tomari,2,PWR,Mitsubishi (2-loop),Operation suspended(under review),550,1985,1991,
-Japan,Tomari,3,PWR,Mitsubishi (3-loop),Operation suspended(under review),866,2004,2009,
-Japan,Tsuruga,1,BWR,BWR-2,Shut down,340,1966,1970,2015
-Japan,Tsuruga,2,PWR,Mitsubishi (4-loop),Operation suspended(under review),1108,1982,1987,
-Kazakhstan,Aktau,1,FBR,BN-350,Shut down/in decommissioning,350,1964,1973,1999
-Lithuania,Ignalina,1,LWGR,RBMK-1500,Shut down/in decommissioning,1185,1977,1983,2004
-Lithuania,Ignalina,2,LWGR,RBMK-1500,Shut down/in decommissioning,1185,1978,1987,2009
+Italy,Caorso,1,BWR,BWR-4 Mark2,Shut down/in decommissioning,860,1970-01-01,1981-12-01,1990-07-01
+Italy,Enrico Fermi,1,PWR,WH 4-loop,Shut down/in decommissioning,260,1961-07-01,1965-01-01,1990-07-01
+Italy,Garigliano,1,BWR,BWR-1,Shut down/in decommissioning,150,1959-11-01,1964-06-01,1982-03-01
+Italy,Latina,1,GCR,Magnox,Shut down/in decommissioning,153,1958-11-01,1964-01-01,1987-12-01
+Italy,Alto Lazio,1,BWR,,Unfinished,982,1982-07-01,,1988-01-01
+Italy,Alto Lazio,2,BWR,,Unfinished,982,1982-07-01,,1988-07-01
+Italy,Trino 2 [],1,PWR,,Unfinished,950,,,1987-12-23
+Italy,Trino 2 [],2,PWR,,Unfinished,950,,,1987-12-23
+Japan,Fugen,1,HWLWR,ATR,Shut down,148,1972-05-10,1979-03-20,2003-03-29
+Japan,Fukushima Daiichi,1,BWR,BWR-3,Inoperable,439,1967-07-25,1971-03-26,2011-05-19
+Japan,Fukushima Daiichi,2,BWR,BWR-4,Inoperable,760,1969-06-09,1974-07-18,2011-05-19
+Japan,Fukushima Daiichi,3,BWR,BWR-4,Inoperable,760,1970-12-28,1976-03-27,2011-05-19
+Japan,Fukushima Daiichi,4,BWR,BWR-4,Inoperable,760,1973-02-12,1978-10-12,2011-05-19
+Japan,Fukushima Daiichi,5,BWR,BWR-4,Shut down,760,1972-05-22,1978-04-18,2013-12-17
+Japan,Fukushima Daiichi,6,BWR,BWR-5,Shut down,1067,1973-10-26,1979-10-24,2013-12-17
+Japan,Fukushima Daini,1,BWR,BWR-5,Shut down,1067,1976-03-16,1982-04-20,2019-09-30
+Japan,Fukushima Daini,2,BWR,BWR-5,Shut down,1067,1979-05-25,1984-02-03,2019-09-30
+Japan,Fukushima Daini,3,BWR,BWR-5,Shut down,1067,1981-03-23,1985-06-21,2019-09-30
+Japan,Fukushima Daini,4,BWR,BWR-5,Shut down,1067,1981-05-28,1987-08-25,2019-09-30
+Japan,Genkai,1,PWR,Mitsubishi (2-loop),Shut down,529,1971-09-15,1975-10-15,2015-04-27
+Japan,Genkai,2,PWR,Mitsubishi (2-loop),Shut down,529,1977-02-01,1981-03-30,2019-04-09
+Japan,Genkai,3,PWR,Mitsubishi (4-loop),Operational,1127,1988-06-01,1994-03-18,
+Japan,Genkai,4,PWR,Mitsubishi (4-loop),Operational,1127,1992-07-15,1997-07-25,
+Japan,Hamaoka,1,BWR,BWR-4,Shut down,515,1971-06-10,1976-03-17,2009-01-30
+Japan,Hamaoka,2,BWR,BWR-4,Shut down,806,1974-06-14,1978-11-29,2009-01-30
+Japan,Hamaoka,3,BWR,BWR-5,Operation suspended(under review),1056,1983-04-18,1987-08-28,
+Japan,Hamaoka,4,BWR,BWR-5,Operation suspended(under review),1092,1989-10-13,1993-09-03,
+Japan,Hamaoka,5,BWR,ABWR,Operation suspended,1325,2000-07-12,2005-01-18,
+Japan,Higashidōri (Tōhoku),1,BWR,BWR-5,Operation suspended(under review),1067,2000-11-07,2005-12-08,
+Japan,Higashidōri (Tokyo),1,BWR,ABWR,Unfinished; restart planned,1350,2011-01-25,,
+Japan,Ikata,1,PWR,Mitsubishi (2-loop),Shut down,538,1973-09-01,1977-09-30,2016-03-25
+Japan,Ikata,2,PWR,Mitsubishi (2-loop),Shut down,538,1978-08-01,1982-03-19,2018-03-27
+Japan,Ikata,3,PWR,Mitsubishi (3-loop),Operational,846,1990-10-01,1994-12-15,
+Japan,Kashiwazaki-Kariwa,1,BWR,BWR-5,Operation suspended,1067,1980-06-05,1985-09-18,
+Japan,Kashiwazaki-Kariwa,2,BWR,BWR-5,Operation suspended,1067,1985-11-18,1990-09-28,
+Japan,Kashiwazaki-Kariwa,3,BWR,BWR-5,Operation suspended,1067,1989-03-07,1993-08-11,
+Japan,Kashiwazaki-Kariwa,4,BWR,BWR-5,Operation suspended,1067,1990-03-05,1994-08-11,
+Japan,Kashiwazaki-Kariwa,5,BWR,BWR-5,Operation suspended,1067,1985-06-20,1990-04-10,
+Japan,Kashiwazaki-Kariwa,6,BWR,ABWR,Operation suspended(restart approved),1315,1992-11-03,1996-11-07,
+Japan,Kashiwazaki-Kariwa,7,BWR,ABWR,Operation suspended(restart approved),1315,1993-07-01,1997-07-02,
+Japan,Mihama,1,PWR,Mitsubishi (2-loop),Shut down,320,1967-02-01,1970-11-28,2015-03-01
+Japan,Mihama,2,PWR,Mitsubishi (2-loop),Shut down,470,1968-05-29,1972-07-25,2015-03-01
+Japan,Mihama,3,PWR,Mitsubishi (3-loop),Operational,780,1972-08-07,1976-12-01,
+Japan,Monju,1,FBR,,Shut down,246,1986-05-10,1995-08-29,2017-12-05
+Japan,Ōi,1,PWR,W (4-loop),Shut down,1120,1972-10-26,1979-03-27,2017-12-01
+Japan,Ōi,2,PWR,Westinghouse (4-loop),Shut down,1120,1972-12-08,1979-12-05,2017-12-01
+Japan,Ōi,3,PWR,Mitsubishi (4-loop),Operational,1127,1987-10-03,1991-12-18,
+Japan,Ōi,4,PWR,Mitsubishi (4-loop),Operational,1127,1988-06-13,1993-02-02,
+Japan,Ōma,1,BWR,ABWR,Under construction,1325,2010-05-07,,
+Japan,Onagawa,1,BWR,BWR-4,Shut down,498,1980-07-08,1984-06-01,2018-12-21
+Japan,Onagawa,2,BWR,BWR-5,Operation suspended(restart approved),796,1991-04-12,1995-07-28,
+Japan,Onagawa,3,BWR,BWR-5,Operation suspended,796,1998-01-23,2002-01-30,
+Japan,Sendai,1,PWR,Mitsubishi (3-loop),Operational,846,1979-12-15,1984-07-04,
+Japan,Sendai,2,PWR,Mitsubishi (3-loop),Operational,846,1981-10-12,1985-11-28,
+Japan,Shika,1,BWR,BWR-5,Operation suspended,505,1989-07-01,1993-07-30,
+Japan,Shika,2,BWR,ABWR,Operation suspended(under review),1108,2001-08-20,2006-03-15,
+Japan,Shimane,1,BWR,BWR-3,Shut down,439,1970-07-02,1974-03-29,2015-03-01
+Japan,Shimane,2,BWR,BWR-5,Operation suspended(restart approved),789,1985-02-02,1989-02-10,
+Japan,Shimane,3,BWR,ABWR,Under construction,1325,2007-10-12,,
+Japan,Takahama,1,PWR,Mitsubishi (3-loop),Operational,780,1970-04-25,1974-11-14,
+Japan,Takahama,2,PWR,Mitsubishi (3-loop),Operational,780,1971-03-09,1975-11-14,
+Japan,Takahama,3,PWR,Mitsubishi (3-loop),Operational,830,1980-12-12,1985-01-17,
+Japan,Takahama,4,PWR,Mitsubishi (3-loop),Operational,830,1981-03-19,1985-06-05,
+Japan,Tōkai,1,GCR,Magnox,Shut down,137,1961-03-01,1966-07-25,1998-03-31
+Japan,Tōkai,2,BWR,BWR-5,Operation suspended(restart approved),1060,1973-10-03,1978-11-28,
+Japan,Tomari,1,PWR,Mitsubishi (2-loop),Operation suspended(under review),550,1985-04-18,1989-06-22,
+Japan,Tomari,2,PWR,Mitsubishi (2-loop),Operation suspended(under review),550,1985-06-13,1991-04-12,
+Japan,Tomari,3,PWR,Mitsubishi (3-loop),Operation suspended(under review),866,2004-11-18,2009-12-22,
+Japan,Tsuruga,1,BWR,BWR-2,Shut down,340,1966-11-24,1970-03-14,2015-03-01
+Japan,Tsuruga,2,PWR,Mitsubishi (4-loop),Operation suspended(under review),1108,1982-11-06,1987-02-17,
+Kazakhstan,Aktau,1,FBR,BN-350,Shut down/in decommissioning,350,1964-10-01,1973-07-16,1999-04-22
+Lithuania,Ignalina,1,LWGR,RBMK-1500,Shut down/in decommissioning,1185,1977-05-01,1983-12-31,2004-12-31
+Lithuania,Ignalina,2,LWGR,RBMK-1500,Shut down/in decommissioning,1185,1978-01-01,1987-08-01,2009-12-31
 Lithuania,Ignalina,3,LWGR,RBMK-1500,Unfinished,1185,,,
 Lithuania,Ignalina,4,LWGR,RBMK-1500,Never built,1185,,,
-Mexico,Laguna Verde,1,BWR,BWR-5,Operational,777,1976,1990,
-Mexico,Laguna Verde,2,BWR,BWR-5,Operational,775,1977,1995,
-Netherlands,Borssele,1,PWR,KWU 2LP,Operational,482,1969,1973,
-Netherlands,Dodewaard,1,BWR,BWR-2,Shut down,55,1965,1969,1997
-North Korea,Yongbyon,1,GCR,Magnox (Pu-production),Shut down,5,,,1994
+Mexico,Laguna Verde,1,BWR,BWR-5,Operational,777,1976-10-01,1990-07-28,
+Mexico,Laguna Verde,2,BWR,BWR-5,Operational,775,1977-06-01,1995-04-10,
+Netherlands,Borssele,1,PWR,KWU 2LP,Operational,482,1969-07-01,1973-10-26,
+Netherlands,Dodewaard,1,BWR,BWR-2,Shut down,55,1965-05-01,1969-03-26,1997-03-26
+North Korea,Yongbyon,1,GCR,Magnox (Pu-production),Shut down,5,,,1994-01-01
 North Korea,Yongbyon,2,LWR,,Planned,30,,,
-North Korea,Taechon,1,,,Unfinished,200,,,1994
-North Korea,Kumho,1,PWR,,Unfinished,1000,,,2003
-North Korea,Kumho,2,PWR,,Unfinished,1000,,,2003
-Pakistan,Chashma,1,PWR,CNP-300,Operational,300,1993,2000,
-Pakistan,Chashma,2,PWR,CNP-300,Operational,300,2005,2011,
-Pakistan,Chashma,3,PWR,CNP-300,Operational,315,2011,2016,
-Pakistan,Chashma,4,PWR,CNP-300,Operational,313,2011,2017,
+North Korea,Taechon,1,,,Unfinished,200,,,1994-01-01
+North Korea,Kumho,1,PWR,,Unfinished,1000,,,2003-01-01
+North Korea,Kumho,2,PWR,,Unfinished,1000,,,2003-01-01
+Pakistan,Chashma,1,PWR,CNP-300,Operational,300,1993-08-01,2000-09-15,
+Pakistan,Chashma,2,PWR,CNP-300,Operational,300,2005-12-28,2011-05-18,
+Pakistan,Chashma,3,PWR,CNP-300,Operational,315,2011-05-28,2016-12-06,
+Pakistan,Chashma,4,PWR,CNP-300,Operational,313,2011-12-18,2017-09-19,
 Pakistan,Chashma,5,PWR,Hualong One,Planned,1080,,,
-Pakistan,Karachi,1,PHWR,CANDU-137 MW,Shut down,90,1966,1972,2021
-Pakistan,Karachi,2,PWR,Hualong One,Operational,1014,2013,2021,
-Pakistan,Karachi,3,PWR,Hualong One,Operational,1014,2016,2022,
-Philippines,Bataan,1,PWR,Westinghouse,Unfinished; restart planned,621,1976,,1986
-Poland,Żarnowiec,1,PWR,VVER-440,Unfinished,440,1982,,1990
-Poland,Żarnowiec,2,PWR,VVER-440,Unfinished,440,1982,,1990
+Pakistan,Karachi,1,PHWR,CANDU-137 MW,Shut down,90,1966-08-01,1972-12-07,2021-08-01
+Pakistan,Karachi,2,PWR,Hualong One,Operational,1014,2013-05-23,2021-03-19,
+Pakistan,Karachi,3,PWR,Hualong One,Operational,1014,2016-05-31,2022-04-18,
+Philippines,Bataan,1,PWR,Westinghouse,Unfinished; restart planned,621,1976-01-01,,1986-01-01
+Poland,Żarnowiec,1,PWR,VVER-440,Unfinished,440,1982-03-31,,1990-09-04
+Poland,Żarnowiec,2,PWR,VVER-440,Unfinished,440,1982-03-31,,1990-09-04
 Poland,Choczewo,1,PWR,AP1000,Planned,1250,,,
 Poland,Choczewo,2,PWR,AP1000,Planned,1250,,,
 Poland,Choczewo,3,PWR,AP1000,Planned,1250,,,
@@ -475,60 +475,60 @@ Poland,Tarnobrzeg/Stalowa Wola,1,BWR,BWRX-300,Planned,300,,,
 Poland,Dąbrowa Górnicza,1,BWR,BWRX-300,Planned,300,,,
 Poland,Stawy Monowskie,1,BWR,BWRX-300,Planned,300,,,
 Poland,Kraków,1,BWR,BWRX-300,Planned,300,,,
-Romania,Cernavodă,1,PHWR,CANDU-6,Operational,650,1983,1996,
-Romania,Cernavodă,2,PHWR,CANDU-6,Operational,650,1983,2007,
+Romania,Cernavodă,1,PHWR,CANDU-6,Operational,650,1983-03-31,1996-12-02,
+Romania,Cernavodă,2,PHWR,CANDU-6,Operational,650,1983-07-01,2007-11-01,
 Romania,Cernavodă,3,PHWR,CANDU-6,Unfinished; restart planned,650,,,
 Romania,Cernavodă,4,PHWR,CANDU-6,Unfinished; restart planned,650,,,
 Romania,Cernavodă,5,PHWR,CANDU-6,Unfinished,650,,,
-Russia,Akademik Lomonosov,1,PWR,KLT-40S,Operational,32,2007,2019,
-Russia,Akademik Lomonosov,2,PWR,KLT-40S,Operational,32,2007,2019,
-Russia,Balakovo,1,PWR,VVER-1000/V-320,Operational,950,1980,1986,
-Russia,Balakovo,2,PWR,VVER-1000/V-320,Operational,950,1981,1988,
-Russia,Balakovo,3,PWR,VVER-1000/V-320,Operational,950,1982,1989,
-Russia,Balakovo,4,PWR,VVER-1000/V-320,Operational,950,1984,1993,
-Russia,Beloyarsk,1,LWGR,AMB-100,Shut down,102,1958,1964,1983
-Russia,Beloyarsk,2,LWGR,AMB-200,Shut down,146,1962,1969,1990
-Russia,Beloyarsk,3,SFR,BN-600,Operational,560,1969,1981,
-Russia,Beloyarsk,4,SFR,BN-800,Operational,789,2006,2015,
+Russia,Akademik Lomonosov,1,PWR,KLT-40S,Operational,32,2007-04-15,2019-12-19,
+Russia,Akademik Lomonosov,2,PWR,KLT-40S,Operational,32,2007-04-15,2019-12-19,
+Russia,Balakovo,1,PWR,VVER-1000/V-320,Operational,950,1980-12-01,1986-05-23,
+Russia,Balakovo,2,PWR,VVER-1000/V-320,Operational,950,1981-08-01,1988-01-18,
+Russia,Balakovo,3,PWR,VVER-1000/V-320,Operational,950,1982-11-01,1989-04-08,
+Russia,Balakovo,4,PWR,VVER-1000/V-320,Operational,950,1984-04-01,1993-12-22,
+Russia,Beloyarsk,1,LWGR,AMB-100,Shut down,102,1958-06-01,1964-04-26,1983-01-01
+Russia,Beloyarsk,2,LWGR,AMB-200,Shut down,146,1962-01-01,1969-12-01,1990-01-01
+Russia,Beloyarsk,3,SFR,BN-600,Operational,560,1969-01-01,1981-11-01,
+Russia,Beloyarsk,4,SFR,BN-800,Operational,789,2006-07-18,2015-12-10,
 Russia,Beloyarsk,5,SFR,BN-1200,Planned,1100,,,
-Russia,Bilibino,1,LWGR,EGP-6,Shut down,11,1970,1974,2019
-Russia,Bilibino,2,LWGR,EGP-6,Operational,11,1970,1975,
-Russia,Bilibino,3,LWGR,EGP-6,Operational,11,1970,1976,
-Russia,Bilibino,4,LWGR,EGP-6,Operational,11,1970,1977,
-Russia,Kalinin,1,PWR,VVER-1000/V-338,Operational,950,1977,1985,
-Russia,Kalinin,2,PWR,VVER-1000/V-338,Operational,950,1982,1987,
-Russia,Kalinin,3,PWR,VVER-1000/V-320,Operational,950,1985,2005,
-Russia,Kalinin,4,PWR,VVER-1000/V-320,Operational,950,1986,2012,
-Russia,Kaliningrad,1,PWR,VVER-1200/V-491,Under construction(suspended),1109,2012,,
+Russia,Bilibino,1,LWGR,EGP-6,Shut down,11,1970-01-01,1974-04-01,2019-01-14
+Russia,Bilibino,2,LWGR,EGP-6,Operational,11,1970-01-01,1975-02-01,
+Russia,Bilibino,3,LWGR,EGP-6,Operational,11,1970-01-01,1976-02-01,
+Russia,Bilibino,4,LWGR,EGP-6,Operational,11,1970-01-01,1977-01-01,
+Russia,Kalinin,1,PWR,VVER-1000/V-338,Operational,950,1977-02-01,1985-06-12,
+Russia,Kalinin,2,PWR,VVER-1000/V-338,Operational,950,1982-02-01,1987-03-03,
+Russia,Kalinin,3,PWR,VVER-1000/V-320,Operational,950,1985-10-01,2005-11-08,
+Russia,Kalinin,4,PWR,VVER-1000/V-320,Operational,950,1986-08-01,2012-12-25,
+Russia,Kaliningrad,1,PWR,VVER-1200/V-491,Under construction(suspended),1109,2012-02-22,,
 Russia,Kaliningrad,2,PWR,VVER-1200/V-491,Planned,1109,,,
-Russia,Kola,1,PWR,VVER-440/V-230,Operational,441,1970,1973,
-Russia,Kola,2,PWR,VVER-440/V-230,Operational,441,1970,1975,
-Russia,Kola,3,PWR,VVER-440/V-213,Operational,441,1977,1982,
-Russia,Kola,4,PWR,VVER-440/V-213,Operational,441,1976,1984,
+Russia,Kola,1,PWR,VVER-440/V-230,Operational,441,1970-05-01,1973-12-28,
+Russia,Kola,2,PWR,VVER-440/V-230,Operational,441,1970-05-01,1975-02-21,
+Russia,Kola,3,PWR,VVER-440/V-213,Operational,441,1977-04-01,1982-12-03,
+Russia,Kola,4,PWR,VVER-440/V-213,Operational,441,1976-08-01,1984-12-06,
 Russia,Kola II,1,PWR,VVER-S-600,Planned,600,,,
 Russia,Kola II,2,PWR,VVER-S-600,Planned,600,,,
-Russia,Kostroma,1,PWR,VVER-1200,Unfinished; restart planned,1300,1979,,
-Russia,Kostroma,2,PWR,VVER-1200,Unfinished; restart planned,1300,1979,,
-Russia,Kostroma,3,PWR,VVER-1200,Unfinished; restart planned,1300,1979,,
-Russia,Kostroma,4,PWR,VVER-1200,Unfinished; restart planned,1300,1979,,
-Russia,Kursk,1,LWGR,RBMK-1000,Shut down,925,1972,1977,2021
-Russia,Kursk,2,LWGR,RBMK-1000,Operational,925,1973,1979,
-Russia,Kursk,3,LWGR,RBMK-1000,Operational,925,1978,1984,
-Russia,Kursk,4,LWGR,RBMK-1000,Operational,925,1981,1986,
-Russia,Kursk II,1,PWR,VVER-TOI/V-510,Under construction,1115,2018,,
-Russia,Kursk II,2,PWR,VVER-TOI/V-510,Under construction,1115,2019,,
+Russia,Kostroma,1,PWR,VVER-1200,Unfinished; restart planned,1300,1979-01-01,,
+Russia,Kostroma,2,PWR,VVER-1200,Unfinished; restart planned,1300,1979-01-01,,
+Russia,Kostroma,3,PWR,VVER-1200,Unfinished; restart planned,1300,1979-01-01,,
+Russia,Kostroma,4,PWR,VVER-1200,Unfinished; restart planned,1300,1979-01-01,,
+Russia,Kursk,1,LWGR,RBMK-1000,Shut down,925,1972-06-01,1977-10-12,2021-12-19
+Russia,Kursk,2,LWGR,RBMK-1000,Operational,925,1973-01-01,1979-08-17,
+Russia,Kursk,3,LWGR,RBMK-1000,Operational,925,1978-04-01,1984-03-30,
+Russia,Kursk,4,LWGR,RBMK-1000,Operational,925,1981-05-01,1986-02-05,
+Russia,Kursk II,1,PWR,VVER-TOI/V-510,Under construction,1115,2018-04-29,,
+Russia,Kursk II,2,PWR,VVER-TOI/V-510,Under construction,1115,2019-04-15,,
 Russia,Kursk II,3,PWR,VVER-TOI,Planned,1115,,,
 Russia,Kursk II,4,PWR,VVER-TOI,Planned,1115,,,
-Russia,Leningrad,1,LWGR,RBMK-1000,Shut down,925,1970,1974,2018
-Russia,Leningrad,2,LWGR,RBMK-1000,Shut down,925,1970,1976,2020
-Russia,Leningrad,3,LWGR,RBMK-1000,Operational,925,1973,1980,
-Russia,Leningrad,4,LWGR,RBMK-1000,Operational,925,1975,1981,
-Russia,Leningrad II,1,PWR,VVER-1200/V-491,Operational,1085,2008,2018,
-Russia,Leningrad II,2,PWR,VVER-1200/V-491,Operational,1085,2010,2021,
+Russia,Leningrad,1,LWGR,RBMK-1000,Shut down,925,1970-03-01,1974-11-01,2018-12-21
+Russia,Leningrad,2,LWGR,RBMK-1000,Shut down,925,1970-06-01,1976-02-11,2020-11-10
+Russia,Leningrad,3,LWGR,RBMK-1000,Operational,925,1973-12-01,1980-06-29,
+Russia,Leningrad,4,LWGR,RBMK-1000,Operational,925,1975-02-01,1981-08-29,
+Russia,Leningrad II,1,PWR,VVER-1200/V-491,Operational,1085,2008-10-25,2018-10-29,
+Russia,Leningrad II,2,PWR,VVER-1200/V-491,Operational,1085,2010-04-15,2021-03-22,
 Russia,Leningrad II,3,PWR,VVER-1200,Planned,1085,,,
 Russia,Leningrad II,4,PWR,VVER-1200,Planned,1085,,,
-Russia,MPEB No. 1,1,PWR,RITM-200S,Under construction,53,2022,,
-Russia,MPEB No. 1,2,PWR,RITM-200S,Under construction,53,2022,,
+Russia,MPEB No. 1,1,PWR,RITM-200S,Under construction,53,2022-08-30,,
+Russia,MPEB No. 1,2,PWR,RITM-200S,Under construction,53,2022-08-30,,
 Russia,MPEB No. 2,1,PWR,RITM-200S,Planned,53,,,
 Russia,MPEB No. 2,2,PWR,RITM-200S,Planned,53,,,
 Russia,MPEB No. 3,1,PWR,RITM-200S,Planned,53,,,
@@ -539,367 +539,367 @@ Russia,Nizhny Novgorod,1,PWR,VVER-1200,Planned,1300,,,
 Russia,Nizhny Novgorod,2,PWR,VVER-1200,Planned,1300,,,
 Russia,Nizhny Novgorod,3,PWR,VVER-1200,Planned,1300,,,
 Russia,Nizhny Novgorod,4,PWR,VVER-1200,Planned,1300,,,
-Russia,Novovoronezh,1,PWR,VVER/V-210,Shut down,197,1957,1964,1988
-Russia,Novovoronezh,2,PWR,VVER/V-365,Shut down,336,1964,1970,1990
-Russia,Novovoronezh,3,PWR,VVER-440/V-179,Shut down,385,1967,1972,2016
-Russia,Novovoronezh,4,PWR,VVER 440/V-179,Operational,385,1967,1973,
-Russia,Novovoronezh,5,PWR,VVER-1000/V-187,Operational,950,1974,1981,
-Russia,Novovoronezh II,1,PWR,VVER-1200/V-392M,Operational,1114,2008,2017,
-Russia,Novovoronezh II,2,PWR,VVER-1200/V-392M,Operational,1114,2009,2019,
+Russia,Novovoronezh,1,PWR,VVER/V-210,Shut down,197,1957-07-01,1964-12-31,1988-02-16
+Russia,Novovoronezh,2,PWR,VVER/V-365,Shut down,336,1964-06-01,1970-04-14,1990-08-29
+Russia,Novovoronezh,3,PWR,VVER-440/V-179,Shut down,385,1967-07-01,1972-06-29,2016-12-25
+Russia,Novovoronezh,4,PWR,VVER 440/V-179,Operational,385,1967-07-01,1973-03-24,
+Russia,Novovoronezh,5,PWR,VVER-1000/V-187,Operational,950,1974-03-01,1981-02-20,
+Russia,Novovoronezh II,1,PWR,VVER-1200/V-392M,Operational,1114,2008-06-24,2017-02-27,
+Russia,Novovoronezh II,2,PWR,VVER-1200/V-392M,Operational,1114,2009-07-12,2019-11-06,
 Russia,Novovoronezh II,3,PWR,VVER-1200,Planned,1175,,,
 Russia,Novovoronezh II,4,PWR,VVER-1200,Planned,1175,,,
-Russia,Obninsk,1,LWGR,AM-1,Shut down,5,1951,1954,2002
-Russia,Rostov,1,PWR,VVER-1000/V-320,Operational,950,1981,2001,
-Russia,Rostov,2,PWR,VVER-1000/V-320,Operational,950,1983,2010,
-Russia,Rostov,3,PWR,VVER-1000/V-320,Operational,950,2009,2014,
-Russia,Rostov,4,PWR,VVER-1000/V-320,Operational,1011,2010,2018,
+Russia,Obninsk,1,LWGR,AM-1,Shut down,5,1951-01-01,1954-12-01,2002-04-29
+Russia,Rostov,1,PWR,VVER-1000/V-320,Operational,950,1981-09-01,2001-12-25,
+Russia,Rostov,2,PWR,VVER-1000/V-320,Operational,950,1983-05-01,2010-12-10,
+Russia,Rostov,3,PWR,VVER-1000/V-320,Operational,950,2009-09-15,2014-12-27,
+Russia,Rostov,4,PWR,VVER-1000/V-320,Operational,1011,2010-06-16,2018-09-28,
 Russia,Sakha,1,PWR,RITM-200N,Planned,55,,,
-Russia,Seversk,1,FBR,BREST-300,Under construction,280,2021,,
-Russia,South Urals,1,FBR,BN-1200,Unfinished; restart planned,1100,1982,,
-Russia,South Urals,2,FBR,BN-1200,Unfinished; restart planned,1100,1982,,
-Russia,South Urals,3,FBR,BN-1200,Unfinished; restart planned,1100,1982,,
-Russia,Smolensk,1,LWGR,RBMK-1000,Operational,925,1975,1983,
-Russia,Smolensk,2,LWGR,RBMK-1000,Operational,925,1976,1985,
-Russia,Smolensk,3,LWGR,RBMK-1000,Operational,925,1984,1990,
+Russia,Seversk,1,FBR,BREST-300,Under construction,280,2021-06-08,,
+Russia,South Urals,1,FBR,BN-1200,Unfinished; restart planned,1100,1982-01-01,,
+Russia,South Urals,2,FBR,BN-1200,Unfinished; restart planned,1100,1982-01-01,,
+Russia,South Urals,3,FBR,BN-1200,Unfinished; restart planned,1100,1982-01-01,,
+Russia,Smolensk,1,LWGR,RBMK-1000,Operational,925,1975-10-01,1983-09-30,
+Russia,Smolensk,2,LWGR,RBMK-1000,Operational,925,1976-06-01,1985-07-02,
+Russia,Smolensk,3,LWGR,RBMK-1000,Operational,925,1984-05-01,1990-10-12,
 Russia,Smolensk II,1,PWR,VVER-TOI,Planned,1300,,,
 Russia,Smolensk II,2,PWR,VVER-TOI,Planned,1300,,,
-Russia,Tatar,1,PWR,VVER-1200,Unfinished; restart planned,1300,1980,,
-Russia,Tatar,2,PWR,VVER-1200,Unfinished; restart planned,1300,1980,,
-Slovakia,Bohunice,A-1,HWGCR,KS 150,Decommissioned,93,1958,1972,1977
-Slovakia,Bohunice,1,PWR,VVER-440/V-230,Shut down,408,1972,1980,2006
-Slovakia,Bohunice,2,PWR,VVER-440/V-230,Shut down,408,1972,1981,2008
-Slovakia,Bohunice,3,PWR,VVER-440/V-213,Operational,472,1976,1985,
-Slovakia,Bohunice,4,PWR,VVER-440/V-213,Operational,471,1976,1985,
-Slovakia,Mochovce,1,PWR,VVER-440 V-213,Operational,436,1983,1998,
-Slovakia,Mochovce,2,PWR,VVER-440/V-213,Operational,436,1983,2000,
-Slovakia,Mochovce,3,PWR,VVER-440/V-213,Operational,440,1987,2023,
-Slovakia,Mochovce,4,PWR,VVER-440/V-213,Under construction,440,1987,,
-Slovenia,Krško,1,PWR,WH 2 loops,Operational,688,1975,1983,
+Russia,Tatar,1,PWR,VVER-1200,Unfinished; restart planned,1300,1980-01-01,,
+Russia,Tatar,2,PWR,VVER-1200,Unfinished; restart planned,1300,1980-01-01,,
+Slovakia,Bohunice,A-1,HWGCR,KS 150,Decommissioned,93,1958-08-01,1972-12-25,1977-02-22
+Slovakia,Bohunice,1,PWR,VVER-440/V-230,Shut down,408,1972-04-24,1980-04-01,2006-12-31
+Slovakia,Bohunice,2,PWR,VVER-440/V-230,Shut down,408,1972-04-24,1981-01-01,2008-12-31
+Slovakia,Bohunice,3,PWR,VVER-440/V-213,Operational,472,1976-12-01,1985-02-14,
+Slovakia,Bohunice,4,PWR,VVER-440/V-213,Operational,471,1976-12-01,1985-12-18,
+Slovakia,Mochovce,1,PWR,VVER-440 V-213,Operational,436,1983-10-13,1998-10-29,
+Slovakia,Mochovce,2,PWR,VVER-440/V-213,Operational,436,1983-10-13,2000-04-11,
+Slovakia,Mochovce,3,PWR,VVER-440/V-213,Operational,440,1987-01-27,2023-10-17,
+Slovakia,Mochovce,4,PWR,VVER-440/V-213,Under construction,440,1987-01-27,,
+Slovenia,Krško,1,PWR,WH 2 loops,Operational,688,1975-03-30,1983-01-01,
 Slovenia,Krško,2,PWR,TBD,Planned,1100,,,
-South Africa,Koeberg,1,PWR,CP1 (France),Operational,930,1976,1984,
-South Africa,Koeberg,2,PWR,CP1 (France),Operational,930,1976,1985,
-South Korea,Hanbit,1,PWR,WH F,Operational,960,1981,1986,
-South Korea,Hanbit,2,PWR,WH F,Operational,958,1981,1987,
-South Korea,Hanbit,3,PWR,OPR-1000,Operational,997,1989,1995,
-South Korea,Hanbit,4,PWR,OPR-1000,Operational,997,1990,1996,
-South Korea,Hanbit,5,PWR,OPR-1000,Operational,997,1997,2002,
-South Korea,Hanbit,6,PWR,OPR-1000,Operational,995,1997,2002,
-South Korea,Hanul,1,PWR,CP1 (France),Operational,960,1983,1988,
-South Korea,Hanul,2,PWR,CP1 (France),Operational,962,1983,1989,
-South Korea,Hanul,3,PWR,OPR-1000,Operational,994,1993,1998,
-South Korea,Hanul,4,PWR,OPR-1000,Operational,998,1993,1999,
-South Korea,Hanul,5,PWR,OPR-1000,Operational,996,1999,2004,
-South Korea,Hanul,6,PWR,OPR-1000,Operational,996,2000,2005,
-South Korea,Shin-Hanul,1,PWR,APR-1400,Operational,1414,2012,2022,
-South Korea,Shin-Hanul,2,PWR,APR-1400,Under commissioning,1400,2012,,
+South Africa,Koeberg,1,PWR,CP1 (France),Operational,930,1976-07-01,1984-07-21,
+South Africa,Koeberg,2,PWR,CP1 (France),Operational,930,1976-07-01,1985-11-09,
+South Korea,Hanbit,1,PWR,WH F,Operational,960,1981-06-04,1986-08-25,
+South Korea,Hanbit,2,PWR,WH F,Operational,958,1981-12-10,1987-06-10,
+South Korea,Hanbit,3,PWR,OPR-1000,Operational,997,1989-12-23,1995-03-31,
+South Korea,Hanbit,4,PWR,OPR-1000,Operational,997,1990-05-26,1996-01-01,
+South Korea,Hanbit,5,PWR,OPR-1000,Operational,997,1997-06-29,2002-05-21,
+South Korea,Hanbit,6,PWR,OPR-1000,Operational,995,1997-11-20,2002-12-24,
+South Korea,Hanul,1,PWR,CP1 (France),Operational,960,1983-01-26,1988-09-10,
+South Korea,Hanul,2,PWR,CP1 (France),Operational,962,1983-07-05,1989-09-30,
+South Korea,Hanul,3,PWR,OPR-1000,Operational,994,1993-07-21,1998-08-11,
+South Korea,Hanul,4,PWR,OPR-1000,Operational,998,1993-11-01,1999-12-31,
+South Korea,Hanul,5,PWR,OPR-1000,Operational,996,1999-10-01,2004-07-29,
+South Korea,Hanul,6,PWR,OPR-1000,Operational,996,2000-09-29,2005-04-22,
+South Korea,Shin-Hanul,1,PWR,APR-1400,Operational,1414,2012-07-10,2022-12-07,
+South Korea,Shin-Hanul,2,PWR,APR-1400,Under commissioning,1400,2012-07-19,,
 South Korea,Shin-Hanul,3,PWR,APR-1400,Planned,1340,,,
 South Korea,Shin-Hanul,4,PWR,APR-1400,Planned,1340,,,
-South Korea,Kori,1,PWR,WH 60,Shut down,576,1972,1978,2017
-South Korea,Kori,2,PWR,WH F,Operational,640,1977,1983,
-South Korea,Kori,3,PWR,WH F,Operational,1011,1979,1985,
-South Korea,Kori,4,PWR,WH F,Operational,1012,1980,1986,
-South Korea,Shin-Kori,1,PWR,OPR-1000,Operational,996,2006,2011,
-South Korea,Shin-Kori,2,PWR,OPR-1000,Operational,996,2007,2012,
-South Korea,Saeul,1,PWR,APR-1400,Operational,1416,2008,2016,
-South Korea,Saeul,2,PWR,APR-1400,Operational,1418,2009,2019,
-South Korea,Saeul,3,PWR,APR-1400,Under construction,1400,2017,,
-South Korea,Saeul,4,PWR,APR-1400,Under construction,1400,2018,,
-South Korea,Wolsong,1,PHWR,CANDU-6,Shut down,657,1977,1983,2019
-South Korea,Wolsong,2,PHWR,CANDU-6,Operational,655,1992,1997,
-South Korea,Wolsong,3,PHWR,CANDU-6,Operational,684,1994,1998,
-South Korea,Wolsong,4,PHWR,CANDU-6,Operational,688,1994,1999,
-South Korea,Shin-Wolsong,1,PWR,OPR-1000,Operational,991,2007,2012,
-South Korea,Shin-Wolsong,2,PWR,OPR-1000,Operational,960,2008,2015,
-Spain,Almaraz,1,PWR,WH 3 loops,Operational,1011,1973,1983,
-Spain,Almaraz,2,PWR,WH 3 loops,Operational,1006,1973,1984,
-Spain,Ascó,1,PWR,WH 3 loops,Operational,995,1974,1984,
-Spain,Ascó,2,PWR,WH-3 loops,Operational,997,1975,1986,
-Spain,Cofrentes,1,BWR,BWR-6,Operational,1064,1975,1985,
-Spain,José Cabrera,1,PWR,WH 1 loop,Shut down/in decommissioning,141,1964,1969,2006
-Spain,Lemoniz,1,PWR,,Unfinished,,1972,,1984
-Spain,Lemoniz,2,PWR,,Unfinished,,1972,,1984
-Spain,Santa María de Garoña,1,BWR,BWR-3,Shut down/in decommissioning,446,1971,1975,2013
-Spain,Trillo,1,PWR,KWU 3 loops,Operational,1003,1979,1988,
-Spain,Valdecaballeros,1,BWR,,Unfinished,,1975,,1984
-Spain,Valdecaballeros,2,BWR,,Unfinished,,1975,,1984
-Spain,Vandellòs,1,GCR,,Shut down/in decommissioning,480,1967,1972,1990
-Spain,Vandellòs,2,PWR,WH 3 loops,Operational,1045,1980,1988,
-Sweden,Ågesta,1,PHWR,R3,Shut down/in decommissioning,10,1957,1964,1974
-Sweden,Barsebäck,1,BWR,ASEA-II,Shut down/in decommissioning,600,1971,1975,1999
-Sweden,Barsebäck,2,BWR,ASEA-II,Shut down/in decommissioning,600,1973,1977,2005
-Sweden,Forsmark,1,BWR,"ASEA-III, BWR-2500",Operational,986,1973,1980,
-Sweden,Forsmark,2,BWR,"ASEA-III, BWR-2500",Operational,1116,1975,1981,
-Sweden,Forsmark,3,BWR,"ASEA-IV, BWR-3000",Operational,1167,1979,1985,
-Sweden,Oskarshamn,1,BWR,ASEA-I,Shut down/in decommissioning,473,1966,1972,2017
-Sweden,Oskarshamn,2,BWR,ASEA-II,Shut down/in decommissioning,638,1969,1975,2016
-Sweden,Oskarshamn,3,BWR,"ASEA-IV, BWR-3000",Operational,1450,1980,1985,
-Sweden,Marviken,1,BHWR,R4,Unfinished,196,1965,,1970
-Sweden,Ringhals,1,BWR,ASEA-I,Shut down/in decommissioning,881,1969,1976,2020
-Sweden,Ringhals,2,PWR,WH 3-loops,Shut down/in decommissioning,904,1970,1975,2019
-Sweden,Ringhals,3,PWR,WH 3-loops,Operational,1062,1972,1981,
-Sweden,Ringhals,4,PWR,WH 3-loops,Operational,1104,1973,1983,
-Switzerland,Beznau,1,PWR,WH 2-loops,Operational,365,1965,1969,
-Switzerland,Beznau,2,PWR,WH 2-loops,Operational,365,1968,1971,
-Switzerland,Gösgen,1,PWR,KWU 3-loops,Operational,1010,1973,1979,
-Switzerland,Leibstadt,1,BWR,BWR-6,Operational,1220,1974,1984,
-Switzerland,Lucens,1,HWGCR,HWGCR,Decommissioned,6,1962,1966,1969
-Switzerland,Mühleberg,1,BWR,BWR-4,Shut down/in decommissioning,373,1967,1972,2019
-Taiwan,Jinshan,1,BWR,BWR-4,Shut down/in decommissioning,636,1972,1978,2018
-Taiwan,Jinshan,2,BWR,BWR-4,Shut down/in decommissioning,636,1973,1979,2018
-Taiwan,Kuosheng,1,BWR,BWR-6,Shut down,985,1975,1981,2021
-Taiwan,Kuosheng,2,BWR,BWR-6,Shut down,985,1976,1983,2023
-Taiwan,Lungmen,1,BWR,ABWR,Unfinished,1350,1999,,2014
-Taiwan,Lungmen,2,BWR,ABWR,Unfinished,1350,1999,,2014
-Taiwan,Maanshan,1,PWR,WH 312 3-loop,Operational,951,1978,1984,
-Taiwan,Maanshan,2,PWR,WH 312 3-loop,Operational,951,1979,1985,
-Turkey,Akkuyu,1,PWR,VVER-1200/V-509,Under construction,1114,2018,,
-Turkey,Akkuyu,2,PWR,VVER-1200/V-509,Under construction,1114,2020,,
-Turkey,Akkuyu,3,PWR,VVER-1200/V-509,Under construction,1114,2021,,
-Turkey,Akkuyu,4,PWR,VVER-1200/V-509,Under construction,1114,2022,,
+South Korea,Kori,1,PWR,WH 60,Shut down,576,1972-04-27,1978-04-29,2017-06-18
+South Korea,Kori,2,PWR,WH F,Operational,640,1977-12-04,1983-07-25,
+South Korea,Kori,3,PWR,WH F,Operational,1011,1979-10-01,1985-09-30,
+South Korea,Kori,4,PWR,WH F,Operational,1012,1980-04-01,1986-04-29,
+South Korea,Shin-Kori,1,PWR,OPR-1000,Operational,996,2006-06-16,2011-02-28,
+South Korea,Shin-Kori,2,PWR,OPR-1000,Operational,996,2007-06-05,2012-07-20,
+South Korea,Saeul,1,PWR,APR-1400,Operational,1416,2008-10-16,2016-01-15,
+South Korea,Saeul,2,PWR,APR-1400,Operational,1418,2009-08-19,2019-08-29,
+South Korea,Saeul,3,PWR,APR-1400,Under construction,1400,2017-04-01,,
+South Korea,Saeul,4,PWR,APR-1400,Under construction,1400,2018-09-20,,
+South Korea,Wolsong,1,PHWR,CANDU-6,Shut down,657,1977-10-30,1983-04-22,2019-12-24
+South Korea,Wolsong,2,PHWR,CANDU-6,Operational,655,1992-06-22,1997-07-01,
+South Korea,Wolsong,3,PHWR,CANDU-6,Operational,684,1994-03-17,1998-07-01,
+South Korea,Wolsong,4,PHWR,CANDU-6,Operational,688,1994-07-22,1999-10-01,
+South Korea,Shin-Wolsong,1,PWR,OPR-1000,Operational,991,2007-11-20,2012-07-31,
+South Korea,Shin-Wolsong,2,PWR,OPR-1000,Operational,960,2008-09-23,2015-02-26,
+Spain,Almaraz,1,PWR,WH 3 loops,Operational,1011,1973-07-03,1983-09-01,
+Spain,Almaraz,2,PWR,WH 3 loops,Operational,1006,1973-07-03,1984-07-01,
+Spain,Ascó,1,PWR,WH 3 loops,Operational,995,1974-05-16,1984-12-10,
+Spain,Ascó,2,PWR,WH-3 loops,Operational,997,1975-03-07,1986-03-31,
+Spain,Cofrentes,1,BWR,BWR-6,Operational,1064,1975-09-09,1985-03-11,
+Spain,José Cabrera,1,PWR,WH 1 loop,Shut down/in decommissioning,141,1964-06-24,1969-08-13,2006-04-30
+Spain,Lemoniz,1,PWR,,Unfinished,,1972-01-01,,1984-01-01
+Spain,Lemoniz,2,PWR,,Unfinished,,1972-01-01,,1984-01-01
+Spain,Santa María de Garoña,1,BWR,BWR-3,Shut down/in decommissioning,446,1971-05-11,1975-02-15,2013-07-06
+Spain,Trillo,1,PWR,KWU 3 loops,Operational,1003,1979-08-17,1988-08-06,
+Spain,Valdecaballeros,1,BWR,,Unfinished,,1975-01-01,,1984-01-01
+Spain,Valdecaballeros,2,BWR,,Unfinished,,1975-01-01,,1984-01-01
+Spain,Vandellòs,1,GCR,,Shut down/in decommissioning,480,1967-01-01,1972-08-02,1990-07-31
+Spain,Vandellòs,2,PWR,WH 3 loops,Operational,1045,1980-12-29,1988-03-08,
+Sweden,Ågesta,1,PHWR,R3,Shut down/in decommissioning,10,1957-12-01,1964-05-01,1974-06-02
+Sweden,Barsebäck,1,BWR,ASEA-II,Shut down/in decommissioning,600,1971-02-01,1975-07-01,1999-11-30
+Sweden,Barsebäck,2,BWR,ASEA-II,Shut down/in decommissioning,600,1973-01-01,1977-07-01,2005-05-31
+Sweden,Forsmark,1,BWR,"ASEA-III, BWR-2500",Operational,986,1973-06-01,1980-12-10,
+Sweden,Forsmark,2,BWR,"ASEA-III, BWR-2500",Operational,1116,1975-01-01,1981-07-07,
+Sweden,Forsmark,3,BWR,"ASEA-IV, BWR-3000",Operational,1167,1979-01-01,1985-08-18,
+Sweden,Oskarshamn,1,BWR,ASEA-I,Shut down/in decommissioning,473,1966-08-01,1972-02-06,2017-06-19
+Sweden,Oskarshamn,2,BWR,ASEA-II,Shut down/in decommissioning,638,1969-09-01,1975-01-01,2016-12-22
+Sweden,Oskarshamn,3,BWR,"ASEA-IV, BWR-3000",Operational,1450,1980-05-01,1985-08-15,
+Sweden,Marviken,1,BHWR,R4,Unfinished,196,1965-04-01,,1970-05-27
+Sweden,Ringhals,1,BWR,ASEA-I,Shut down/in decommissioning,881,1969-02-01,1976-01-01,2020-12-31
+Sweden,Ringhals,2,PWR,WH 3-loops,Shut down/in decommissioning,904,1970-10-01,1975-05-01,2019-12-30
+Sweden,Ringhals,3,PWR,WH 3-loops,Operational,1062,1972-09-01,1981-09-09,
+Sweden,Ringhals,4,PWR,WH 3-loops,Operational,1104,1973-11-01,1983-11-21,
+Switzerland,Beznau,1,PWR,WH 2-loops,Operational,365,1965-09-01,1969-09-01,
+Switzerland,Beznau,2,PWR,WH 2-loops,Operational,365,1968-01-01,1971-12-01,
+Switzerland,Gösgen,1,PWR,KWU 3-loops,Operational,1010,1973-12-01,1979-11-01,
+Switzerland,Leibstadt,1,BWR,BWR-6,Operational,1220,1974-01-01,1984-12-15,
+Switzerland,Lucens,1,HWGCR,HWGCR,Decommissioned,6,1962-04-01,1966-12-29,1969-01-21
+Switzerland,Mühleberg,1,BWR,BWR-4,Shut down/in decommissioning,373,1967-03-01,1972-11-06,2019-12-20
+Taiwan,Jinshan,1,BWR,BWR-4,Shut down/in decommissioning,636,1972-06-02,1978-12-10,2018-10-03
+Taiwan,Jinshan,2,BWR,BWR-4,Shut down/in decommissioning,636,1973-12-07,1979-07-15,2018-10-03
+Taiwan,Kuosheng,1,BWR,BWR-6,Shut down,985,1975-11-19,1981-12-28,2021-07-01
+Taiwan,Kuosheng,2,BWR,BWR-6,Shut down,985,1976-03-15,1983-03-16,2023-03-15
+Taiwan,Lungmen,1,BWR,ABWR,Unfinished,1350,1999-03-31,,2014-01-01
+Taiwan,Lungmen,2,BWR,ABWR,Unfinished,1350,1999-08-30,,2014-01-01
+Taiwan,Maanshan,1,PWR,WH 312 3-loop,Operational,951,1978-08-21,1984-07-27,
+Taiwan,Maanshan,2,PWR,WH 312 3-loop,Operational,951,1979-02-21,1985-05-18,
+Turkey,Akkuyu,1,PWR,VVER-1200/V-509,Under construction,1114,2018-04-03,,
+Turkey,Akkuyu,2,PWR,VVER-1200/V-509,Under construction,1114,2020-04-08,,
+Turkey,Akkuyu,3,PWR,VVER-1200/V-509,Under construction,1114,2021-03-10,,
+Turkey,Akkuyu,4,PWR,VVER-1200/V-509,Under construction,1114,2022-07-21,,
 Turkey,Sinop,1,PWR,Atmea-1,Cancelled,1100,,,
 Turkey,Sinop,2,PWR,Atmea-1,Cancelled,1100,,,
 Turkey,Sinop,3,PWR,Atmea-1,Cancelled,1100,,,
 Turkey,Sinop,4,PWR,Atmea-1,Cancelled,1100,,,
-Ukraine,Chernobyl,1,LWGR,RBMK-1000,Shut down/in decommissioning,740,1970,1978,1996
-Ukraine,Chernobyl,2,LWGR,RBMK-1000,Shut down/in decommissioning,925,1973,1979,1991
-Ukraine,Chernobyl,3,LWGR,RBMK-1000,Shut down/in decommissioning,925,1976,1982,2000
-Ukraine,Chernobyl,4,LWGR,RBMK-1000,Destroyed,925,1979,1984,1986
+Ukraine,Chernobyl,1,LWGR,RBMK-1000,Shut down/in decommissioning,740,1970-03-01,1978-05-27,1996-11-30
+Ukraine,Chernobyl,2,LWGR,RBMK-1000,Shut down/in decommissioning,925,1973-02-01,1979-05-28,1991-10-11
+Ukraine,Chernobyl,3,LWGR,RBMK-1000,Shut down/in decommissioning,925,1976-03-01,1982-06-08,2000-12-15
+Ukraine,Chernobyl,4,LWGR,RBMK-1000,Destroyed,925,1979-04-01,1984-03-26,1986-04-26
 Ukraine,Chernobyl,5,LWGR,RBMK-1000,Unfinished,925,,,
 Ukraine,Chernobyl,6,LWGR,RBMK-1000,Unfinished,925,,,
 Ukraine,Chyhyryn,1,PWR,AP1000,Planned,1100,,,
 Ukraine,Chyhyryn,2,PWR,AP1000,Planned,1100,,,
-Ukraine,Crimean,1,PWR,VVER-1000,Unfinished,950,1984,,1987
-Ukraine,Crimean,2,PWR,VVER-1000,Unfinished,950,1984,,1987
-Ukraine,Kharkiv,1,PWR,VVER-1000,Unfinished,900,1988,,1990
-Ukraine,Kharkiv,2,PWR,VVER-1000,Unfinished,900,1988,,1990
-Ukraine,Khmelnytskyi,1,PWR,VVER-1000/V-320,Operational,950,1981,1988,
-Ukraine,Khmelnytskyi,2,PWR,VVER-1000/V-320,Operational,950,1985,2005,
-Ukraine,Khmelnytskyi,3,PWR,VVER-1000,Under construction,950,1985,,
-Ukraine,Khmelnytskyi,4,PWR,VVER-1000,Under construction,950,1986,,
+Ukraine,Crimean,1,PWR,VVER-1000,Unfinished,950,1984-01-26,,1987-01-01
+Ukraine,Crimean,2,PWR,VVER-1000,Unfinished,950,1984-01-26,,1987-01-01
+Ukraine,Kharkiv,1,PWR,VVER-1000,Unfinished,900,1988-01-01,,1990-01-01
+Ukraine,Kharkiv,2,PWR,VVER-1000,Unfinished,900,1988-01-01,,1990-01-01
+Ukraine,Khmelnytskyi,1,PWR,VVER-1000/V-320,Operational,950,1981-11-01,1988-08-13,
+Ukraine,Khmelnytskyi,2,PWR,VVER-1000/V-320,Operational,950,1985-02-01,2005-12-15,
+Ukraine,Khmelnytskyi,3,PWR,VVER-1000,Under construction,950,1985-09-01,,
+Ukraine,Khmelnytskyi,4,PWR,VVER-1000,Under construction,950,1986-06-01,,
 Ukraine,Khmelnytskyi,5,PWR,AP1000,Planned,1100,,,
 Ukraine,Khmelnytskyi,6,PWR,AP1000,Planned,1100,,,
-Ukraine,Odesa,1,PWR,VVER-1000,Unfinished,900,,,1989
-Ukraine,Odesa,2,PWR,VVER-1000,Unfinished,900,,,1989
-Ukraine,Rivne,1,PWR,VVER-440/V-213,Operational,381,1973,1981,
-Ukraine,Rivne,2,PWR,VVER-440/V-213,Operational,376,1973,1982,
-Ukraine,Rivne,3,PWR,VVER-1000/V-320,Operational,950,1980,1987,
-Ukraine,Rivne,4,PWR,VVER-1000/V-320,Operational,950,1986,2006,
+Ukraine,Odesa,1,PWR,VVER-1000,Unfinished,900,,,1989-01-01
+Ukraine,Odesa,2,PWR,VVER-1000,Unfinished,900,,,1989-01-01
+Ukraine,Rivne,1,PWR,VVER-440/V-213,Operational,381,1973-08-01,1981-09-22,
+Ukraine,Rivne,2,PWR,VVER-440/V-213,Operational,376,1973-10-01,1982-07-29,
+Ukraine,Rivne,3,PWR,VVER-1000/V-320,Operational,950,1980-02-01,1987-05-16,
+Ukraine,Rivne,4,PWR,VVER-1000/V-320,Operational,950,1986-08-01,2006-04-06,
 Ukraine,Rivne,5,PWR,AP1000,Planned,1100,,,
-Ukraine,South Ukraine,1,PWR,VVER-1000/V-302,Operational,950,1976,1983,
-Ukraine,South Ukraine,2,PWR,VVER-1000/V-338,Operational,950,1981,1985,
-Ukraine,South Ukraine,3,PWR,VVER-1000/V-320,Operational,950,1984,1989,
+Ukraine,South Ukraine,1,PWR,VVER-1000/V-302,Operational,950,1976-08-01,1983-12-02,
+Ukraine,South Ukraine,2,PWR,VVER-1000/V-338,Operational,950,1981-07-01,1985-04-06,
+Ukraine,South Ukraine,3,PWR,VVER-1000/V-320,Operational,950,1984-11-01,1989-12-29,
 Ukraine,South Ukraine,4,PWR,AP1000,Planned,1100,,,
-Ukraine,Zaporizhzhia,1,PWR,VVER-1000/V-320,Operational,950,1980,1985,
-Ukraine,Zaporizhzhia,2,PWR,VVER-1000/V-320,Operational,950,1981,1986,
-Ukraine,Zaporizhzhia,3,PWR,VVER-1000/V-320,Operational,950,1982,1987,
-Ukraine,Zaporizhzhia,4,PWR,VVER-1000/V-320,Operational,950,1983,1988,
-Ukraine,Zaporizhzhia,5,PWR,VVER-1000/V-320,Operational,950,1985,1989,
-Ukraine,Zaporizhzhia,6,PWR,VVER-1000/V-320,Operational,950,1986,1996,
-United Arab Emirates,Barakah,1,PWR,APR-1400,Operational,1345,2012,2021,
-United Arab Emirates,Barakah,2,PWR,APR-1400,Operational,1345,2013,2022,
-United Arab Emirates,Barakah,3,PWR,APR-1400,Operational,1345,2014,2023,
-United Arab Emirates,Barakah,4,PWR,APR-1400,Under construction,1345,2015,,
-United Kingdom,Berkeley,1,GCR,Magnox,Decommissioned,138,1957,1962,1989
-United Kingdom,Berkeley,2,GCR,Magnox,Decommissioned,138,1957,1962,1988
-United Kingdom,Bradwell,1,GCR,Magnox,Decommissioned,123,1957,1962,2002
-United Kingdom,Bradwell,2,GCR,Magnox,Decommissioned,123,1957,1962,2002
+Ukraine,Zaporizhzhia,1,PWR,VVER-1000/V-320,Operational,950,1980-04-01,1985-12-25,
+Ukraine,Zaporizhzhia,2,PWR,VVER-1000/V-320,Operational,950,1981-01-01,1986-02-15,
+Ukraine,Zaporizhzhia,3,PWR,VVER-1000/V-320,Operational,950,1982-04-01,1987-03-05,
+Ukraine,Zaporizhzhia,4,PWR,VVER-1000/V-320,Operational,950,1983-04-01,1988-04-14,
+Ukraine,Zaporizhzhia,5,PWR,VVER-1000/V-320,Operational,950,1985-11-01,1989-10-27,
+Ukraine,Zaporizhzhia,6,PWR,VVER-1000/V-320,Operational,950,1986-06-01,1996-09-17,
+United Arab Emirates,Barakah,1,PWR,APR-1400,Operational,1345,2012-07-19,2021-04-06,
+United Arab Emirates,Barakah,2,PWR,APR-1400,Operational,1345,2013-04-16,2022-03-24,
+United Arab Emirates,Barakah,3,PWR,APR-1400,Operational,1345,2014-09-24,2023-02-24,
+United Arab Emirates,Barakah,4,PWR,APR-1400,Under construction,1345,2015-07-30,,
+United Kingdom,Berkeley,1,GCR,Magnox,Decommissioned,138,1957-01-01,1962-06-12,1989-03-31
+United Kingdom,Berkeley,2,GCR,Magnox,Decommissioned,138,1957-01-01,1962-10-20,1988-10-26
+United Kingdom,Bradwell,1,GCR,Magnox,Decommissioned,123,1957-01-01,1962-07-01,2002-03-31
+United Kingdom,Bradwell,2,GCR,Magnox,Decommissioned,123,1957-01-01,1962-11-12,2002-03-30
 United Kingdom,Bradwell B,1,PWR,Hualong One,Planned,1117,,,
 United Kingdom,Bradwell B,2,PWR,Hualong One,Planned,1117,,,
-United Kingdom,Calder Hall,1,GCR,Magnox,Shut down/in decommissioning,49,1953,1956,2003
-United Kingdom,Calder Hall,2,GCR,Magnox,Shut down/in decommissioning,49,1953,1957,2003
-United Kingdom,Calder Hall,3,GCR,Magnox,Shut down/in decommissioning,49,1955,1958,2003
-United Kingdom,Calder Hall,4,GCR,Magnox,Shut down/in decommissioning,49,1955,1959,2003
-United Kingdom,Chapelcross,1,GCR,Magnox,Shut down/in decommissioning,48,1955,1959,2004
-United Kingdom,Chapelcross,2,GCR,Magnox,Shut down/in decommissioning,48,1955,1959,2004
-United Kingdom,Chapelcross,3,GCR,Magnox,Shut down/in decommissioning,48,1955,1959,2004
-United Kingdom,Chapelcross,4,GCR,Magnox,Shut down/in decommissioning,48,1955,1960,2004
-United Kingdom,Dounreay,1,SFR,DFR,Shut down/in decommissioning,11,1955,1962,1977
-United Kingdom,Dounreay,2,SFR,PFR,Shut down/in decommissioning,234,1966,1976,1994
-United Kingdom,Dungeness A,A-1,GCR,Magnox,Shut down/in decommissioning,225,1960,1965,2006
-United Kingdom,Dungeness A,A-2,GCR,Magnox,Shut down/in decommissioning,225,1960,1965,2006
-United Kingdom,Dungeness B,B-1,GCR,AGR,Shut down,520,1965,1985,2021
-United Kingdom,Dungeness B,B-2,GCR,AGR,Shut down,520,1965,1989,2021
-United Kingdom,Hartlepool,1,GCR,AGR,Operational,595,1968,1989,
-United Kingdom,Hartlepool,2,GCR,AGR,Operational,585,1968,1989,
-United Kingdom,Heysham,A-1,GCR,AGR,Operational,585,1970,1989,
-United Kingdom,Heysham,A-2,GCR,AGR,Operational,575,1970,1989,
-United Kingdom,Heysham,B-1,GCR,AGR,Operational,610,1980,1989,
-United Kingdom,Heysham,B-2,GCR,AGR,Operational,610,1980,1989,
-United Kingdom,Hinkley Point A,1,GCR,Magnox,Shut down/in decommissioning,235,1957,1965,2000
-United Kingdom,Hinkley Point A,2,GCR,Magnox,Shut down/in decommissioning,235,1957,1965,2000
-United Kingdom,Hinkley Point B,1,GCR,AGR,Shut down/in decommissioning,435,1967,1978,2022
-United Kingdom,Hinkley Point B,2,GCR,AGR,Shut down/in decommissioning,435,1967,1976,2022
-United Kingdom,Hinkley Point C,1,PWR,EPR,Under construction,1600,2018,,
-United Kingdom,Hinkley Point C,2,PWR,EPR,Under construction,1600,2019,,
-United Kingdom,Hunterston A,1,GCR,Magnox,Shut down/in decommissioning,150,1957,1964,1990
-United Kingdom,Hunterston A,2,GCR,Magnox,Shut down/in decommissioning,150,1957,1964,1989
-United Kingdom,Hunterston B,1,GCR,AGR,Shut down,460,1967,1976,2021
-United Kingdom,Hunterston B,2,GCR,AGR,Shut down,460,1967,1977,2022
+United Kingdom,Calder Hall,1,GCR,Magnox,Shut down/in decommissioning,49,1953-08-01,1956-10-01,2003-03-31
+United Kingdom,Calder Hall,2,GCR,Magnox,Shut down/in decommissioning,49,1953-08-01,1957-02-01,2003-03-31
+United Kingdom,Calder Hall,3,GCR,Magnox,Shut down/in decommissioning,49,1955-08-01,1958-05-01,2003-03-31
+United Kingdom,Calder Hall,4,GCR,Magnox,Shut down/in decommissioning,49,1955-08-01,1959-04-01,2003-03-31
+United Kingdom,Chapelcross,1,GCR,Magnox,Shut down/in decommissioning,48,1955-10-01,1959-03-01,2004-06-29
+United Kingdom,Chapelcross,2,GCR,Magnox,Shut down/in decommissioning,48,1955-10-01,1959-08-01,2004-06-29
+United Kingdom,Chapelcross,3,GCR,Magnox,Shut down/in decommissioning,48,1955-10-01,1959-12-01,2004-06-29
+United Kingdom,Chapelcross,4,GCR,Magnox,Shut down/in decommissioning,48,1955-10-01,1960-03-01,2004-06-29
+United Kingdom,Dounreay,1,SFR,DFR,Shut down/in decommissioning,11,1955-03-01,1962-10-01,1977-03-01
+United Kingdom,Dounreay,2,SFR,PFR,Shut down/in decommissioning,234,1966-01-01,1976-07-01,1994-03-31
+United Kingdom,Dungeness A,A-1,GCR,Magnox,Shut down/in decommissioning,225,1960-07-01,1965-10-28,2006-12-31
+United Kingdom,Dungeness A,A-2,GCR,Magnox,Shut down/in decommissioning,225,1960-07-01,1965-12-30,2006-12-31
+United Kingdom,Dungeness B,B-1,GCR,AGR,Shut down,520,1965-10-01,1985-04-01,2021-06-07
+United Kingdom,Dungeness B,B-2,GCR,AGR,Shut down,520,1965-10-01,1989-04-01,2021-06-07
+United Kingdom,Hartlepool,1,GCR,AGR,Operational,595,1968-10-01,1989-04-01,
+United Kingdom,Hartlepool,2,GCR,AGR,Operational,585,1968-10-01,1989-04-01,
+United Kingdom,Heysham,A-1,GCR,AGR,Operational,585,1970-12-01,1989-04-01,
+United Kingdom,Heysham,A-2,GCR,AGR,Operational,575,1970-12-01,1989-04-01,
+United Kingdom,Heysham,B-1,GCR,AGR,Operational,610,1980-08-01,1989-04-01,
+United Kingdom,Heysham,B-2,GCR,AGR,Operational,610,1980-08-01,1989-04-01,
+United Kingdom,Hinkley Point A,1,GCR,Magnox,Shut down/in decommissioning,235,1957-11-01,1965-03-30,2000-05-23
+United Kingdom,Hinkley Point A,2,GCR,Magnox,Shut down/in decommissioning,235,1957-11-01,1965-05-05,2000-05-23
+United Kingdom,Hinkley Point B,1,GCR,AGR,Shut down/in decommissioning,435,1967-09-01,1978-10-02,2022-08-01
+United Kingdom,Hinkley Point B,2,GCR,AGR,Shut down/in decommissioning,435,1967-09-01,1976-09-27,2022-07-06
+United Kingdom,Hinkley Point C,1,PWR,EPR,Under construction,1600,2018-12-11,,
+United Kingdom,Hinkley Point C,2,PWR,EPR,Under construction,1600,2019-12-12,,
+United Kingdom,Hunterston A,1,GCR,Magnox,Shut down/in decommissioning,150,1957-10-01,1964-02-05,1990-03-30
+United Kingdom,Hunterston A,2,GCR,Magnox,Shut down/in decommissioning,150,1957-10-01,1964-07-01,1989-12-31
+United Kingdom,Hunterston B,1,GCR,AGR,Shut down,460,1967-11-01,1976-02-06,2021-11-26
+United Kingdom,Hunterston B,2,GCR,AGR,Shut down,460,1967-11-01,1977-03-31,2022-01-07
 United Kingdom,Moorside,1,PWR,EPR,Planned,1600,,,
 United Kingdom,Moorside,2,PWR,EPR,Planned,1600,,,
-United Kingdom,Oldbury,1,GCR,Magnox,Shut down/in decommissioning,217,1962,1967,2012
-United Kingdom,Oldbury,2,GCR,Magnox,Shut down/in decommissioning,217,1962,1968,2011
-United Kingdom,Sizewell A,1,GCR,Magnox,Shut down/in decommissioning,210,1961,1966,2006
-United Kingdom,Sizewell A,2,GCR,Magnox,Shut down/in decommissioning,210,1961,1966,2006
-United Kingdom,Sizewell B,1,PWR,WH SNUPPS,Operational,1191,1988,1995,
+United Kingdom,Oldbury,1,GCR,Magnox,Shut down/in decommissioning,217,1962-05-01,1967-12-31,2012-02-29
+United Kingdom,Oldbury,2,GCR,Magnox,Shut down/in decommissioning,217,1962-05-01,1968-09-30,2011-06-30
+United Kingdom,Sizewell A,1,GCR,Magnox,Shut down/in decommissioning,210,1961-04-01,1966-03-25,2006-12-31
+United Kingdom,Sizewell A,2,GCR,Magnox,Shut down/in decommissioning,210,1961-04-01,1966-09-15,2006-12-31
+United Kingdom,Sizewell B,1,PWR,WH SNUPPS,Operational,1191,1988-07-18,1995-09-22,
 United Kingdom,Sizewell C,1,PWR,EPR,Planned,1600,,,
 United Kingdom,Sizewell C,2,PWR,EPR,Planned,1600,,,
-United Kingdom,Torness,1,GCR,AGR,Operational,595,1980,1988,
-United Kingdom,Torness,2,GCR,AGR,Operational,595,1980,1989,
-United Kingdom,Trawsfynydd,1,GCR,Magnox,Shut down/in decommissioning,195,1959,1965,1991
-United Kingdom,Trawsfynydd,2,GCR,Magnox,Shut down/in decommissioning,195,1959,1965,1991
-United Kingdom,Winfrith,1,SGHWR,SGHWR,Shut down/in decommissioning,92,1963,1968,1990
-United Kingdom,Wylfa,1,GCR,Magnox,Shut down/in decommissioning,490,1963,1971,2015
-United Kingdom,Wylfa,2,GCR,Magnox,Shut down/in decommissioning,490,1963,1972,2012
-United States,Arkansas Nuclear One,1,PWR,B & W (DRY-Cont),Operational,836,1968,1974,
-United States,Arkansas Nuclear One,2,PWR,CE (DRY),Operational,988,1968,1978,
-United States,Beaver Valley,1,PWR,WH 3-loop (DRY),Operational,908,1970,1976,
-United States,Beaver Valley,2,PWR,WH 3-loop (DRY),Operational,905,1974,1987,
-United States,Big Rock Point,1,BWR,BWR-1,Dismantled,67,1960,1963,1997
-United States,Braidwood,1,PWR,WH 4-loop (DRY),Operational,1194,1975,1988,
-United States,Braidwood,2,PWR,WH 4-loop (DRY),Operational,1160,1975,1988,
-United States,Browns Ferry,1,BWR,BWR-4 (WET),Operational,1200,1967,1974,
-United States,Browns Ferry,2,BWR,BWR-4 (WET),Operational,1200,1967,1975,
-United States,Browns Ferry,3,BWR,BWR-4 (WET),Operational,1210,1968,1977,
-United States,Brunswick,1,BWR,BWR-4 (WET),Operational,938,1970,1977,
-United States,Brunswick,2,BWR,BWR-4 (WET),Operational,932,1970,1975,
-United States,Byron,1,PWR,WH 4-loop (DRY),Operational,1164,1975,1985,
-United States,Byron,2,PWR,WH 4-loop (DRY),Operational,1136,1975,1987,
-United States,Callaway,1,PWR,WH 4-loop (DRY),Operational,1215,1975,1984,
-United States,Calvert Cliffs,1,PWR,CE 2-loop (DRY),Operational,877,1968,1977,
-United States,Calvert Cliffs,2,PWR,CE 2-loop (DRY),Operational,855,1968,1977,
+United Kingdom,Torness,1,GCR,AGR,Operational,595,1980-08-01,1988-05-25,
+United Kingdom,Torness,2,GCR,AGR,Operational,595,1980-08-01,1989-02-03,
+United Kingdom,Trawsfynydd,1,GCR,Magnox,Shut down/in decommissioning,195,1959-07-01,1965-03-24,1991-02-06
+United Kingdom,Trawsfynydd,2,GCR,Magnox,Shut down/in decommissioning,195,1959-07-01,1965-03-24,1991-02-04
+United Kingdom,Winfrith,1,SGHWR,SGHWR,Shut down/in decommissioning,92,1963-05-01,1968-01-01,1990-09-11
+United Kingdom,Wylfa,1,GCR,Magnox,Shut down/in decommissioning,490,1963-09-01,1971-11-01,2015-12-30
+United Kingdom,Wylfa,2,GCR,Magnox,Shut down/in decommissioning,490,1963-09-01,1972-01-03,2012-04-25
+United States,Arkansas Nuclear One,1,PWR,B & W (DRY-Cont),Operational,836,1968-10-01,1974-05-21,
+United States,Arkansas Nuclear One,2,PWR,CE (DRY),Operational,988,1968-12-06,1978-09-01,
+United States,Beaver Valley,1,PWR,WH 3-loop (DRY),Operational,908,1970-06-26,1976-07-02,
+United States,Beaver Valley,2,PWR,WH 3-loop (DRY),Operational,905,1974-05-03,1987-08-14,
+United States,Big Rock Point,1,BWR,BWR-1,Dismantled,67,1960-05-01,1963-03-29,1997-08-29
+United States,Braidwood,1,PWR,WH 4-loop (DRY),Operational,1194,1975-08-01,1988-07-29,
+United States,Braidwood,2,PWR,WH 4-loop (DRY),Operational,1160,1975-08-01,1988-10-17,
+United States,Browns Ferry,1,BWR,BWR-4 (WET),Operational,1200,1967-05-01,1974-08-01,
+United States,Browns Ferry,2,BWR,BWR-4 (WET),Operational,1200,1967-05-01,1975-03-01,
+United States,Browns Ferry,3,BWR,BWR-4 (WET),Operational,1210,1968-07-01,1977-03-01,
+United States,Brunswick,1,BWR,BWR-4 (WET),Operational,938,1970-02-07,1977-03-18,
+United States,Brunswick,2,BWR,BWR-4 (WET),Operational,932,1970-02-07,1975-11-03,
+United States,Byron,1,PWR,WH 4-loop (DRY),Operational,1164,1975-04-01,1985-09-16,
+United States,Byron,2,PWR,WH 4-loop (DRY),Operational,1136,1975-04-01,1987-08-02,
+United States,Callaway,1,PWR,WH 4-loop (DRY),Operational,1215,1975-09-01,1984-12-19,
+United States,Calvert Cliffs,1,PWR,CE 2-loop (DRY),Operational,877,1968-06-01,1977-05-08,
+United States,Calvert Cliffs,2,PWR,CE 2-loop (DRY),Operational,855,1968-06-01,1977-04-01,
 United States,Carbon Free Power Project,1,PWR,NuScale,Cancelled,77,,,
 United States,Carbon Free Power Project,2,PWR,NuScale,Cancelled,77,,,
 United States,Carbon Free Power Project,3,PWR,NuScale,Cancelled,77,,,
 United States,Carbon Free Power Project,4,PWR,NuScale,Cancelled,77,,,
 United States,Carbon Free Power Project,5,PWR,NuScale,Cancelled,77,,,
 United States,Carbon Free Power Project,6,PWR,NuScale,Cancelled,77,,,
-United States,Catawba,1,PWR,WH 4-loop (ICECOND),Operational,1160,1974,1985,
-United States,Catawba,2,PWR,WH 4-loop (ICECOND),Operational,1150,1974,1986,
+United States,Catawba,1,PWR,WH 4-loop (ICECOND),Operational,1160,1974-05-01,1985-06-29,
+United States,Catawba,2,PWR,WH 4-loop (ICECOND),Operational,1150,1974-05-01,1986-08-19,
 United States,Clinch River,1,BWR,BWRX-300,Planned,180,,,
-United States,Clinton,1,BWR,BWR-6 (WET),Operational,1062,1975,1987,
-United States,Columbia,1,BWR,BWR-5 (WET),Operational,1131,1972,1984,
-United States,Comanche Peak,1,PWR,WH 4-loop (DRY),Operational,1205,1974,1990,
-United States,Comanche Peak,2,PWR,WH 4-loop (DRY),Operational,1195,1974,1993,
-United States,Connecticut Yankee,1,PWR,WH (DRY),Dismantled,582,1964,1968,1996
-United States,Cooper,1,BWR,BWR-4 (WET),Operational,769,1968,1974,
-United States,Crystal River 3,1,PWR,B & W (DRY),Shut down/in decommissioning,860,1968,1977,2013
-United States,Davis-Besse,1,PWR,B & W (DRY),Operational,894,1970,1978,
-United States,Diablo Canyon,1,PWR,WH 4-Loop (DRY),Operational,1138,1968,1985,
-United States,Diablo Canyon,2,PWR,WH 4-Loop (DRY),Operational,1118,1970,1986,
-United States,Donald C. Cook,1,PWR,WH 4-Loop (ICECOND),Operational,1020,1969,1975,
-United States,Donald C. Cook,2,PWR,WH 4-Loop (ICECOND),Operational,1090,1969,1978,
-United States,Dresden,1,BWR,BWR-1,Shut down,197,1956,1960,1978
-United States,Dresden,2,BWR,BWR-3 (WET),Operational,894,1966,1970,
-United States,Dresden,3,BWR,BWR-3 (WET),Operational,879,1966,1971,
-United States,Duane Arnold,1,BWR,BWR-4 (WET),Shut down,601,1970,1975,2020
-United States,Edwin I. Hatch,1,BWR,BWR-4 (WET),Operational,924,1968,1975,
-United States,Edwin I. Hatch,2,BWR,BWR-4 (WET),Operational,924,1972,1979,
-United States,Elk River,1,BWR,,Dismantled,22,1959,1964,1968
-United States,Fermi,1,FBR,Prototype,Shut down,61,1956,1966,1972
-United States,Fermi,2,BWR,BWR-4 (WET),Operational,1115,1972,1988,
-United States,Fort Calhoun,1,PWR,CE 2-loop (WET),Shut down,482,1968,1973,2016
-United States,Fort St. Vrain,1,HTGR,General Atomics,Shut down,330,1968,1979,1989
-United States,Ginna,1,PWR,WH 2-loop (DRY),Operational,560,1966,1970,
-United States,Grand Gulf,1,BWR,BWR-6 (WET),Operational,1401,1974,1985,
-United States,H. B. Robinson,1,PWR,WH 3-loop (DRY),Operational,735,1967,1971,
-United States,Hallam,1,SGR,Atomics International,Dismantled,75,1959,1963,1969
-United States,Hartsville,A1,BWR,BWR-6,Unfinished,1285,1975,,1984
-United States,Hartsville,A2,BWR,BWR-6,Unfinished,1285,1975,,1984
-United States,Hartsville,B1,BWR,BWR-6,Unfinished,1285,1975,,1983
-United States,Hartsville,B2,BWR,BWR-6,Unfinished,1285,1975,,1983
-United States,Hope Creek,1,BWR,BWR-4 (WET),Operational,1172,1976,1986,
-United States,Humboldt Bay,1,BWR,BWR-1,Dismantled,63,1960,1963,1976
-United States,Indian Point,1,PWR,,Shut down,257,1956,1962,1974
-United States,Indian Point,2,PWR,WH 4-loop (DRY),Shut down,998,1966,1974,2020
-United States,Indian Point,3,PWR,WH 4-loop (DRY),Shut down,1030,1968,1976,2021
-United States,James A. FitzPatrick,1,BWR,BWR-4 (WET),Operational,813,1968,1975,
-United States,Joseph M. Farley,1,PWR,WH 3-Loop (DRY),Operational,874,1970,1977,
-United States,Joseph M. Farley,2,PWR,WH 3-Loop (DRY),Operational,883,1970,1981,
+United States,Clinton,1,BWR,BWR-6 (WET),Operational,1062,1975-10-01,1987-11-24,
+United States,Columbia,1,BWR,BWR-5 (WET),Operational,1131,1972-08-01,1984-12-13,
+United States,Comanche Peak,1,PWR,WH 4-loop (DRY),Operational,1205,1974-12-19,1990-08-13,
+United States,Comanche Peak,2,PWR,WH 4-loop (DRY),Operational,1195,1974-12-19,1993-08-03,
+United States,Connecticut Yankee,1,PWR,WH (DRY),Dismantled,582,1964-05-01,1968-01-01,1996-12-05
+United States,Cooper,1,BWR,BWR-4 (WET),Operational,769,1968-06-01,1974-07-01,
+United States,Crystal River 3,1,PWR,B & W (DRY),Shut down/in decommissioning,860,1968-09-25,1977-03-13,2013-02-05
+United States,Davis-Besse,1,PWR,B & W (DRY),Operational,894,1970-09-01,1978-07-31,
+United States,Diablo Canyon,1,PWR,WH 4-Loop (DRY),Operational,1138,1968-04-23,1985-05-07,
+United States,Diablo Canyon,2,PWR,WH 4-Loop (DRY),Operational,1118,1970-12-09,1986-03-13,
+United States,Donald C. Cook,1,PWR,WH 4-Loop (ICECOND),Operational,1020,1969-03-25,1975-08-27,
+United States,Donald C. Cook,2,PWR,WH 4-Loop (ICECOND),Operational,1090,1969-03-25,1978-07-01,
+United States,Dresden,1,BWR,BWR-1,Shut down,197,1956-05-01,1960-07-04,1978-10-31
+United States,Dresden,2,BWR,BWR-3 (WET),Operational,894,1966-01-10,1970-06-09,
+United States,Dresden,3,BWR,BWR-3 (WET),Operational,879,1966-10-14,1971-11-16,
+United States,Duane Arnold,1,BWR,BWR-4 (WET),Shut down,601,1970-05-22,1975-02-01,2020-08-10
+United States,Edwin I. Hatch,1,BWR,BWR-4 (WET),Operational,924,1968-09-30,1975-12-31,
+United States,Edwin I. Hatch,2,BWR,BWR-4 (WET),Operational,924,1972-02-01,1979-09-05,
+United States,Elk River,1,BWR,,Dismantled,22,1959-01-01,1964-07-01,1968-02-01
+United States,Fermi,1,FBR,Prototype,Shut down,61,1956-08-08,1966-08-07,1972-11-29
+United States,Fermi,2,BWR,BWR-4 (WET),Operational,1115,1972-09-26,1988-01-23,
+United States,Fort Calhoun,1,PWR,CE 2-loop (WET),Shut down,482,1968-06-07,1973-08-09,2016-10-24
+United States,Fort St. Vrain,1,HTGR,General Atomics,Shut down,330,1968-09-01,1979-07-01,1989-08-29
+United States,Ginna,1,PWR,WH 2-loop (DRY),Operational,560,1966-04-25,1970-06-01,
+United States,Grand Gulf,1,BWR,BWR-6 (WET),Operational,1401,1974-05-04,1985-07-01,
+United States,H. B. Robinson,1,PWR,WH 3-loop (DRY),Operational,735,1967-04-13,1971-03-07,
+United States,Hallam,1,SGR,Atomics International,Dismantled,75,1959-01-01,1963-11-01,1969-09-01
+United States,Hartsville,A1,BWR,BWR-6,Unfinished,1285,1975-05-23,,1984-08-29
+United States,Hartsville,A2,BWR,BWR-6,Unfinished,1285,1975-05-23,,1984-08-29
+United States,Hartsville,B1,BWR,BWR-6,Unfinished,1285,1975-05-23,,1983-03-22
+United States,Hartsville,B2,BWR,BWR-6,Unfinished,1285,1975-05-23,,1983-03-22
+United States,Hope Creek,1,BWR,BWR-4 (WET),Operational,1172,1976-03-01,1986-12-20,
+United States,Humboldt Bay,1,BWR,BWR-1,Dismantled,63,1960-11-01,1963-08-01,1976-07-02
+United States,Indian Point,1,PWR,,Shut down,257,1956-05-01,1962-10-01,1974-10-31
+United States,Indian Point,2,PWR,WH 4-loop (DRY),Shut down,998,1966-10-14,1974-08-01,2020-04-30
+United States,Indian Point,3,PWR,WH 4-loop (DRY),Shut down,1030,1968-11-01,1976-08-30,2021-04-30
+United States,James A. FitzPatrick,1,BWR,BWR-4 (WET),Operational,813,1968-09-01,1975-07-28,
+United States,Joseph M. Farley,1,PWR,WH 3-Loop (DRY),Operational,874,1970-10-01,1977-12-01,
+United States,Joseph M. Farley,2,PWR,WH 3-Loop (DRY),Operational,883,1970-10-01,1981-07-30,
 United States,Kemmerer,1,SFR,Natrium,Planned,345,,,
-United States,Kewaunee,1,PWR,WH 2-loop (DRY),Shut down,566,1968,1974,2013
-United States,La Crosse,1,BWR,BWR-1,Dismantled,48,1963,1969,1987
-United States,LaSalle County,1,BWR,BWR-5 (WET),Operational,1137,1973,1984,
-United States,LaSalle County,2,BWR,BWR-5 (WET),Operational,1140,1973,1984,
-United States,Limerick,1,BWR,BWR-5 (WET),Operational,1134,1974,1986,
-United States,Limerick,2,BWR,BWR-5 (WET),Operational,1134,1974,1990,
-United States,Maine Yankee,1,PWR,WH (DRY),Dismantled,860,1968,1972,1997
-United States,Marble Hill,1,PWR,WH (DRY),Unfinished,1130,1977,,1984
-United States,McGuire,1,PWR,WH 4-Loop (ICECOND),Operational,1158,1971,1981,
-United States,McGuire,2,PWR,WH 4-Loop (ICECOND),Operational,1158,1971,1984,
-United States,Millstone,1,BWR,BWR-3 (WET),Shut down,641,1966,1970,1998
-United States,Millstone,2,PWR,CE 2-loop (DRY),Operational,869,1969,1975,
-United States,Millstone,3,PWR,WH 4-Loop (DRY),Operational,1210,1974,1986,
-United States,Monticello,1,BWR,BWR-3 (WET),Operational,628,1967,1971,
-United States,Nine Mile Point,1,BWR,BWR-2 (WET),Operational,613,1965,1969,
-United States,Nine Mile Point,2,BWR,BWR-5 (WET),Operational,1277,1975,1988,
-United States,North Anna,1,PWR,WH 3-Loop (DRY),Operational,948,1971,1978,
-United States,North Anna,2,PWR,WH 3-Loop (DRY),Operational,944,1971,1980,
-United States,Oconee,1,PWR,B & W (DRY),Operational,847,1967,1973,
-United States,Oconee,2,PWR,B & W (DRY),Operational,848,1967,1974,
-United States,Oconee,3,PWR,B & W (DRY),Operational,859,1967,1974,
-United States,Oyster Creek,1,BWR,BWR-2 (WET),Shut down,619,1964,1969,2018
-United States,Palisades,1,PWR,CE 2-loop (DRY),Shut down,805,1967,1971,2022
-United States,Palo Verde,1,PWR,CE80 2-loop (DRY),Operational,1311,1976,1986,
-United States,Palo Verde,2,PWR,CE80 2-loop (DRY),Operational,1314,1976,1986,
-United States,Palo Verde,3,PWR,CE80 2-loop (DRY),Operational,1312,1976,1988,
-United States,Parr,1,PHWR,CVTR,Dismantled,17,1960,1963,1967
-United States,Pathfinder,1,BWR,BWR-1,Dismantled,59,1959,1966,1967
-United States,Peach Bottom,1,GCR,Prototype,Shut down,40,1962,1966,1974
-United States,Peach Bottom,2,BWR,BWR-4 (WET),Operational,1300,1968,1974,
-United States,Peach Bottom,3,BWR,BWR-4 (WET),Operational,1331,1968,1974,
-United States,Perry,1,BWR,BWR-6 (WET),Operational,1240,1974,1987,
-United States,Pilgrim,1,BWR,BWR-3 (WET),Shut down,677,1968,1972,2019
-United States,Piqua,1,OCR,Atomics International,Decommissioned,12,1960,1963,1966
-United States,Point Beach,1,PWR,WH 2-loop (DRY),Operational,591,1967,1970,
-United States,Point Beach,2,PWR,WH 2-loop (DRY),Operational,591,1968,1972,
-United States,Prairie Island,1,PWR,WH 2-loop (DRY),Operational,522,1968,1973,
-United States,Prairie Island,2,PWR,WH 2-loop (DRY),Operational,519,1969,1974,
-United States,Quad Cities,1,BWR,BWR-4 (WET),Operational,908,1967,1973,
-United States,Quad Cities,2,BWR,BWR-4 (WET),Operational,911,1967,1973,
-United States,Rancho Seco,1,PWR,WH (DRY),Decommissioned,873,1969,1975,1989
-United States,River Bend,1,BWR,BWR-6 (WET),Operational,967,1977,1986,
-United States,Salem,1,PWR,WH 4-loop (DRY),Operational,1169,1968,1977,
-United States,Salem,2,PWR,WH 4-loop (DRY),Operational,1158,1968,1981,
-United States,San Onofre,1,PWR,WH (DRY),Dismantled,436,1964,1968,1992
-United States,San Onofre,2,PWR,CE (DRY),Shut down/in decommissioning,1070,1974,1983,2013
-United States,San Onofre,3,PWR,CE (DRY),Shut down/in decommissioning,1180,1974,1984,2013
-United States,Saxton,1,PWR,,Decommissioned,3,1960,1961,1972
-United States,Seabrook Station,1,PWR,WH 4-Loop (DRY),Operational,1246,1976,1990,
-United States,Sequoyah,1,PWR,WH 4-Loop (ICECOND),Operational,1152,1970,1981,
-United States,Sequoyah,2,PWR,WH 4-Loop (ICECOND),Operational,1139,1970,1982,
-United States,Shearon Harris,1,PWR,WH 3-Loop (DRY),Operational,964,1978,1987,
-United States,Shippingport,1,PWR,WH,Dismantled,60,1954,1958,1989
-United States,Shoreham,1,BWR,GE,Shut down,820,1972,1986,1989
-United States,SRE,1,FBR,,Decommissioned,6.5,1954,1957,1964
-United States,South Texas,1,PWR,WH 4-loop (DRY),Operational,1280,1975,1988,
-United States,South Texas,2,PWR,WH 4-loop (DRY),Operational,1280,1975,1989,
-United States,St. Lucie,1,PWR,CE (DRY),Operational,981,1970,1976,
-United States,St. Lucie,2,PWR,CE (DRY),Operational,987,1977,1983,
-United States,Surry,1,PWR,WH 3-loop (DRY),Operational,838,1968,1972,
-United States,Surry,2,PWR,WH 3-loop (DRY),Operational,838,1968,1973,
-United States,Susquehanna,1,BWR,BWR-5 (WET),Operational,1257,1973,1982,
-United States,Susquehanna,2,BWR,BWR-5 (WET),Operational,1257,1973,1984,
-United States,Three Mile Island,1,PWR,B & W (DRY),Shut down,819,1968,1974,2019
-United States,Three Mile Island,2,PWR,B & W (DRY),Core melt,880,1969,1978,1979
-United States,Trojan,1,PWR,WH (DRY),Dismantled,1095,1970,1976,1992
-United States,Turkey Point,1,PWR,WH 3-loop (DRY),Operational,837,1967,1972,
-United States,Turkey Point,2,PWR,WH 3-loop (DRY),Operational,821,1967,1973,
+United States,Kewaunee,1,PWR,WH 2-loop (DRY),Shut down,566,1968-08-06,1974-06-16,2013-05-07
+United States,La Crosse,1,BWR,BWR-1,Dismantled,48,1963-03-01,1969-11-07,1987-04-30
+United States,LaSalle County,1,BWR,BWR-5 (WET),Operational,1137,1973-09-10,1984-01-01,
+United States,LaSalle County,2,BWR,BWR-5 (WET),Operational,1140,1973-09-10,1984-10-19,
+United States,Limerick,1,BWR,BWR-5 (WET),Operational,1134,1974-06-19,1986-02-01,
+United States,Limerick,2,BWR,BWR-5 (WET),Operational,1134,1974-06-19,1990-01-08,
+United States,Maine Yankee,1,PWR,WH (DRY),Dismantled,860,1968-10-01,1972-12-28,1997-08-01
+United States,Marble Hill,1,PWR,WH (DRY),Unfinished,1130,1977-08-01,,1984-01-10
+United States,McGuire,1,PWR,WH 4-Loop (ICECOND),Operational,1158,1971-04-01,1981-12-01,
+United States,McGuire,2,PWR,WH 4-Loop (ICECOND),Operational,1158,1971-04-01,1984-03-01,
+United States,Millstone,1,BWR,BWR-3 (WET),Shut down,641,1966-05-01,1970-12-28,1998-07-21
+United States,Millstone,2,PWR,CE 2-loop (DRY),Operational,869,1969-11-01,1975-12-26,
+United States,Millstone,3,PWR,WH 4-Loop (DRY),Operational,1210,1974-08-09,1986-04-23,
+United States,Monticello,1,BWR,BWR-3 (WET),Operational,628,1967-06-19,1971-06-30,
+United States,Nine Mile Point,1,BWR,BWR-2 (WET),Operational,613,1965-04-12,1969-12-01,
+United States,Nine Mile Point,2,BWR,BWR-5 (WET),Operational,1277,1975-08-01,1988-03-11,
+United States,North Anna,1,PWR,WH 3-Loop (DRY),Operational,948,1971-02-19,1978-06-06,
+United States,North Anna,2,PWR,WH 3-Loop (DRY),Operational,944,1971-02-19,1980-12-14,
+United States,Oconee,1,PWR,B & W (DRY),Operational,847,1967-11-06,1973-07-15,
+United States,Oconee,2,PWR,B & W (DRY),Operational,848,1967-11-06,1974-09-09,
+United States,Oconee,3,PWR,B & W (DRY),Operational,859,1967-11-06,1974-12-16,
+United States,Oyster Creek,1,BWR,BWR-2 (WET),Shut down,619,1964-12-15,1969-12-23,2018-09-17
+United States,Palisades,1,PWR,CE 2-loop (DRY),Shut down,805,1967-03-14,1971-12-31,2022-05-20
+United States,Palo Verde,1,PWR,CE80 2-loop (DRY),Operational,1311,1976-05-25,1986-01-28,
+United States,Palo Verde,2,PWR,CE80 2-loop (DRY),Operational,1314,1976-06-01,1986-09-19,
+United States,Palo Verde,3,PWR,CE80 2-loop (DRY),Operational,1312,1976-06-01,1988-01-08,
+United States,Parr,1,PHWR,CVTR,Dismantled,17,1960-01-01,1963-12-18,1967-01-10
+United States,Pathfinder,1,BWR,BWR-1,Dismantled,59,1959-01-01,1966-08-01,1967-10-01
+United States,Peach Bottom,1,GCR,Prototype,Shut down,40,1962-02-01,1966-06-01,1974-11-01
+United States,Peach Bottom,2,BWR,BWR-4 (WET),Operational,1300,1968-01-31,1974-07-05,
+United States,Peach Bottom,3,BWR,BWR-4 (WET),Operational,1331,1968-01-31,1974-12-23,
+United States,Perry,1,BWR,BWR-6 (WET),Operational,1240,1974-10-01,1987-11-18,
+United States,Pilgrim,1,BWR,BWR-3 (WET),Shut down,677,1968-08-26,1972-12-09,2019-05-31
+United States,Piqua,1,OCR,Atomics International,Decommissioned,12,1960-01-01,1963-11-01,1966-01-01
+United States,Point Beach,1,PWR,WH 2-loop (DRY),Operational,591,1967-07-19,1970-12-21,
+United States,Point Beach,2,PWR,WH 2-loop (DRY),Operational,591,1968-07-25,1972-10-01,
+United States,Prairie Island,1,PWR,WH 2-loop (DRY),Operational,522,1968-06-25,1973-12-16,
+United States,Prairie Island,2,PWR,WH 2-loop (DRY),Operational,519,1969-06-25,1974-12-21,
+United States,Quad Cities,1,BWR,BWR-4 (WET),Operational,908,1967-02-15,1973-02-18,
+United States,Quad Cities,2,BWR,BWR-4 (WET),Operational,911,1967-02-15,1973-03-10,
+United States,Rancho Seco,1,PWR,WH (DRY),Decommissioned,873,1969-04-01,1975-04-17,1989-06-23
+United States,River Bend,1,BWR,BWR-6 (WET),Operational,967,1977-03-25,1986-06-16,
+United States,Salem,1,PWR,WH 4-loop (DRY),Operational,1169,1968-09-25,1977-06-30,
+United States,Salem,2,PWR,WH 4-loop (DRY),Operational,1158,1968-09-25,1981-10-31,
+United States,San Onofre,1,PWR,WH (DRY),Dismantled,436,1964-07-16,1968-01-01,1992-11-30
+United States,San Onofre,2,PWR,CE (DRY),Shut down/in decommissioning,1070,1974-03-01,1983-08-08,2013-06-07
+United States,San Onofre,3,PWR,CE (DRY),Shut down/in decommissioning,1180,1974-03-01,1984-04-01,2013-06-07
+United States,Saxton,1,PWR,,Decommissioned,3,1960-01-01,1961-11-01,1972-05-01
+United States,Seabrook Station,1,PWR,WH 4-Loop (DRY),Operational,1246,1976-07-07,1990-03-15,
+United States,Sequoyah,1,PWR,WH 4-Loop (ICECOND),Operational,1152,1970-05-27,1981-07-01,
+United States,Sequoyah,2,PWR,WH 4-Loop (ICECOND),Operational,1139,1970-05-27,1982-06-01,
+United States,Shearon Harris,1,PWR,WH 3-Loop (DRY),Operational,964,1978-01-28,1987-05-02,
+United States,Shippingport,1,PWR,WH,Dismantled,60,1954-09-06,1958-05-26,1989-12-01
+United States,Shoreham,1,BWR,GE,Shut down,820,1972-11-01,1986-08-01,1989-05-01
+United States,SRE,1,FBR,,Decommissioned,6.5,1954-01-01,1957-07-12,1964-02-15
+United States,South Texas,1,PWR,WH 4-loop (DRY),Operational,1280,1975-12-22,1988-08-25,
+United States,South Texas,2,PWR,WH 4-loop (DRY),Operational,1280,1975-12-22,1989-06-19,
+United States,St. Lucie,1,PWR,CE (DRY),Operational,981,1970-07-01,1976-03-01,
+United States,St. Lucie,2,PWR,CE (DRY),Operational,987,1977-06-02,1983-06-10,
+United States,Surry,1,PWR,WH 3-loop (DRY),Operational,838,1968-06-25,1972-12-22,
+United States,Surry,2,PWR,WH 3-loop (DRY),Operational,838,1968-06-25,1973-05-01,
+United States,Susquehanna,1,BWR,BWR-5 (WET),Operational,1257,1973-11-02,1982-11-12,
+United States,Susquehanna,2,BWR,BWR-5 (WET),Operational,1257,1973-11-02,1984-06-27,
+United States,Three Mile Island,1,PWR,B & W (DRY),Shut down,819,1968-05-18,1974-09-02,2019-09-20
+United States,Three Mile Island,2,PWR,B & W (DRY),Core melt,880,1969-11-01,1978-12-30,1979-03-28
+United States,Trojan,1,PWR,WH (DRY),Dismantled,1095,1970-02-01,1976-05-20,1992-11-09
+United States,Turkey Point,1,PWR,WH 3-loop (DRY),Operational,837,1967-04-27,1972-12-14,
+United States,Turkey Point,2,PWR,WH 3-loop (DRY),Operational,821,1967-04-27,1973-09-07,
 United States,Turkey Point,3,PWR,AP1000,Planned,1100,,,
 United States,Turkey Point,4,PWR,AP1000,Planned,1100,,,
-United States,Vallecitos,1,BWR,BWR-1,Shut down,25,1956,1957,1963
-United States,Vermont Yankee,1,BWR,BWR-4 (WET),Shut down,605,1967,1972,2014
-United States,Virgil C. Summer,1,PWR,WH 3-Loop (DRY),Operational,1000,1973,1984,
-United States,Vogtle,1,PWR,WH 4-Loop (DRY),Operational,1150,1976,1987,
-United States,Vogtle,2,PWR,WH 4-Loop (DRY),Operational,1152,1976,1989,
-United States,Vogtle,3,PWR,AP1000,Operational,1117,2013,2023,
-United States,Vogtle,4,PWR,AP1000,Under construction,1117,2013,,
-United States,Waterford,1,PWR,CE 2-loop (DRY),Operational,1168,1974,1985,
-United States,Watts Bar,1,PWR,WH 4-Loop (ICECOND),Operational,1157,1973,1996,
-United States,Watts Bar,2,PWR,WH 4-Loop (ICECOND),Operational,1164,1973,2016,
-United States,Wolf Creek,1,PWR,WH 4-Loop (DRY),Operational,1200,1977,1985,
-United States,Yankee Rowe,1,PWR,WH (DRY),Dismantled,167,1957,1961,1991
-United States,Zion,1,PWR,WH (DRY),Dismantled,1040,1968,1973,1998
-United States,Zion,2,PWR,WH (DRY),Dismantled,1040,1968,1974,1998
+United States,Vallecitos,1,BWR,BWR-1,Shut down,25,1956-01-01,1957-10-19,1963-12-09
+United States,Vermont Yankee,1,BWR,BWR-4 (WET),Shut down,605,1967-12-11,1972-11-30,2014-12-29
+United States,Virgil C. Summer,1,PWR,WH 3-Loop (DRY),Operational,1000,1973-03-21,1984-01-01,
+United States,Vogtle,1,PWR,WH 4-Loop (DRY),Operational,1150,1976-08-01,1987-06-01,
+United States,Vogtle,2,PWR,WH 4-Loop (DRY),Operational,1152,1976-08-01,1989-05-20,
+United States,Vogtle,3,PWR,AP1000,Operational,1117,2013-03-12,2023-07-31,
+United States,Vogtle,4,PWR,AP1000,Under construction,1117,2013-11-19,,
+United States,Waterford,1,PWR,CE 2-loop (DRY),Operational,1168,1974-11-14,1985-09-24,
+United States,Watts Bar,1,PWR,WH 4-Loop (ICECOND),Operational,1157,1973-07-20,1996-05-27,
+United States,Watts Bar,2,PWR,WH 4-Loop (ICECOND),Operational,1164,1973-09-01,2016-06-04,
+United States,Wolf Creek,1,PWR,WH 4-Loop (DRY),Operational,1200,1977-05-31,1985-09-03,
+United States,Yankee Rowe,1,PWR,WH (DRY),Dismantled,167,1957-11-01,1961-07-01,1991-10-01
+United States,Zion,1,PWR,WH (DRY),Dismantled,1040,1968-12-01,1973-12-31,1998-02-13
+United States,Zion,2,PWR,WH (DRY),Dismantled,1040,1968-12-01,1974-09-17,1998-02-13
 Uzbekistan,Plant in the Jizzakh Region,1,PWR,VVER-1200,Planned,1200,,,
 Uzbekistan,,2,PWR,VVER-1200,Planned,1200,,,

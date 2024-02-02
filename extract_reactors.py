@@ -1,4 +1,6 @@
 import re
+import datetime
+import calendar
 import csv
 import requests
 
@@ -44,15 +46,17 @@ KNOWN_STATUSES = {
 }
 
 
-RE_YEAR = re.compile(r'(?:(?:\d{1,2}\s)?[A-Z][a-z]{2}\s)?(\d{4})')
+RE_YEAR = re.compile(r'(?:(?:(\d{1,2})\s+)?([A-Z][a-z]{2})\s+)?(\d{4})')
 RE_PLANNED_YEAR = re.compile(r'\((\d{4})\)|\(\d{4}–(\d{4})\)')
 
 def extract_year(s: str) -> str:
     if len(s) == 0:
         return s
     if m := re.match(RE_YEAR, s):
-        assert m.group(1), f'Cannot extract year from "{s}"'
-        return m.group(1)
+        day = m.group(1) or '1'
+        month = m.group(2) or 'Jan'
+        year = m.group(3)
+        return datetime.datetime.strptime(f'{day} {month} {year}', '%d %b %Y').date().isoformat()
     if m := re.match(RE_PLANNED_YEAR, s):
         return ''
     assert False, f'Cannot extract year from "{s}"'
